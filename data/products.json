@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": "NETSU-P01",
+      "name": "Portalatas Pura Vida",
+      "description": "Portalatas de acero inoxidable con grabado láser. IVA y empaque de regalo incluidos. Envío aparte. Disponibilidad por confirmar.",
+      "currency": "CRC",
+      "colors": [
+        "Menta",
+        "Blanco",
+        "Negro",
+        "Rojo",
+        "Azul marino"
+      ],
+      "availability": "consultar",
+      "images": [
+        "assets/menta.webp",
+        "assets/blanco.webp",
+        "assets/negro.webp",
+        "assets/rojo.webp",
+        "assets/azul-marino.webp",
+        "assets/precios.webp"
+      ],
+      "pricing": {
+        "standard": [
+          {
+            "min": 1,
+            "max": 11,
+            "unit": 7000
+          },
+          {
+            "min": 12,
+            "max": 23,
+            "unit": 6500
+          },
+          {
+            "min": 24,
+            "max": 50,
+            "unit": 6000
+          }
+        ],
+        "custom": [
+          {
+            "min": 1,
+            "max": 3,
+            "unit": 9000
+          },
+          {
+            "min": 4,
+            "max": 11,
+            "unit": 8000
+          },
+          {
+            "min": 12,
+            "max": 23,
+            "unit": 7500
+          },
+          {
+            "min": 24,
+            "max": 50,
+            "unit": 7000
+          }
+        ]
+      },
+      "customNotes": "Personalización sencilla; diseños especiales se cotizan aparte",
+      "whatsapp": "50672800252"
+    }
+  ]
+}
