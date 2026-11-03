@@ -95,3 +95,15 @@ Revisar página publicada y compra desde carrito: PENDIENTE.
 Facebook publicado según enlace proporcionado por usuario.
 Ficha web actualizada en GitHub con enlace a publicación madre.
 Instagram publicado según enlace proporcionado por usuario; Marketplace, Reel y Ads no confirmados como publicados.
+
+11. POLÍTICA DE CANALES Y ACTUALIZACIONES — NETSU STORE
+La ficha web es la referencia principal de precio, fotos, características verificadas, disponibilidad y carrito; pedido final por WhatsApp.
+Facebook: publicación madre por producto, referencia de fotos y descripción al momento de publicar.
+Instagram: publicación individual por producto, enlace conservado en el TXT.
+Marketplace: OPCIONAL; no bloquea la preparación de anuncios ni exige publicación individual.
+WhatsApp: consultas, validación de compatibilidad/stock, entrega y cierre del pedido.
+Catálogo PDF: debe coincidir con la ficha web vigente; actualizar cuando cambie la oferta.
+TXT maestro: conservar datos, links, fechas, estado, diferencias entre precio propuesto/confirmado y tareas pendientes.
+Publicaciones sociales anteriores no se actualizan automáticamente al cambiar la web: revisar o aclarar cambios importantes.
+Meta Ads: al final, texto combinado breve, título, descripción y hasta las opciones de preguntas permitidas por la configuración, cada una con respuesta breve y enlace a la ficha web y/o publicación individual.
+Estado T02: Facebook e Instagram con enlaces recibidos; Marketplace opcional, sin publicación requerida.
