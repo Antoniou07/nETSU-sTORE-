@@ -101,3 +101,9 @@ Respuesta:
 📸 https://www.instagram.com/p/Devyq-cnJls/
 
 Los 3 enlaces se conservan en la respuesta porque permiten ver ficha/precios y publicaciones sociales. Verificar límite de caracteres en interfaz de Meta; si excede, priorizar web y Facebook. Instagram fue proporcionado por usuario como enlace de portalatas, aunque coincide con URL de T01 previamente registrada.
+
+REGLA OPERATIVA ACTUALIZADA 2026-11-03 — PREVALECE SOBRE RESPUESTAS ANTERIORES
+META ADS: pregunta: ¿Tienen portalatas personalizados?
+META ADS: respuesta: 🥤 Pura Vida desde ₡7.000 y personalizados desde ₡9.000. ¿Cuántos necesitás?
+NO insertar enlaces en respuestas automáticas cortas de Meta Ads. Enlaces web/Facebook/Instagram y publicidad general se reservan para atajos de WhatsApp Business (/portalatas, /netsut01, /netsuinfo) cuando el cliente los solicite. Mantener links históricos en ficha interna, no como respuesta principal.
+Longitud pregunta: 34 caracteres Unicode; respuesta: 75 caracteres Unicode (Meta puede contar emojis de otra manera). Límite real de Meta aún no verificado.
