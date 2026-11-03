@@ -107,3 +107,14 @@ TXT maestro: conservar datos, links, fechas, estado, diferencias entre precio pr
 Publicaciones sociales anteriores no se actualizan automáticamente al cambiar la web: revisar o aclarar cambios importantes.
 Meta Ads: al final, texto combinado breve, título, descripción y hasta las opciones de preguntas permitidas por la configuración, cada una con respuesta breve y enlace a la ficha web y/o publicación individual.
 Estado T02: Facebook e Instagram con enlaces recibidos; Marketplace opcional, sin publicación requerida.
+
+12. TARJETA 3 META ADS — VERSIÓN VIGENTE
+Título: Arrancador + compresor portátil
+Descripción: Dos funciones en un equipo.
+Pregunta: ¿Tienen arrancador con compresor?
+Respuesta automática breve:
+🚗⚡ Mirá el arrancador + compresor:
+FB: https://www.facebook.com/share/p/1FUPd8KAHE/
+IG: https://www.instagram.com/p/DfRQDMojjYU/
+Respuesta rápida WhatsApp /netsut02: ¡Hola! 👋 Gracias por escribir a Netsu Store. El arrancador con compresor tiene precio propuesto de ₡32.900 IVA incluido, envío aparte. ¿Para qué vehículo lo necesitás y en qué zona sería la entrega? Confirmamos compatibilidad y stock.
+REGLA: En Meta, enlace directo FB e IG del producto, sin web general ni explicaciones largas. WhatsApp contiene saludo, precio y seguimiento. Verificar límite exacto en la interfaz. Precio propuesto, pendiente confirmar.
