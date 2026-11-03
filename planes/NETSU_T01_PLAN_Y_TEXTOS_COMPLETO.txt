@@ -85,3 +85,9 @@ Respuesta corta con los tres enlaces:
 📸 https://www.instagram.com/p/Devyq-cnJls/
 NOTA: El enlace Instagram coincide con el suministrado posteriormente para portalatas; verificar que corresponde realmente al inflador antes de activar. Si Meta limita caracteres, priorizar enlace a la web.
 Regla permanente de campaña: pregunta corta, respuesta corta, enviar a páginas y publicaciones; no duplicar fichas extensas en respuestas.
+
+REGLA OPERATIVA ACTUALIZADA 2026-11-03 — PREVALECE SOBRE RESPUESTAS ANTERIORES
+META ADS: pregunta: ¿Cuánto cuesta el inflador?
+META ADS: respuesta: 🛞 ₡14.900 IVA incluido. ¿En qué zona necesitás entrega?
+NO insertar enlaces en respuestas automáticas cortas de Meta Ads. Enlaces web/Facebook/Instagram y publicidad general se reservan para atajos de WhatsApp Business (/portalatas, /netsut01, /netsuinfo) cuando el cliente los solicite. Mantener links históricos en ficha interna, no como respuesta principal.
+Longitud pregunta: 27 caracteres Unicode; respuesta: 55 caracteres Unicode (Meta puede contar emojis de otra manera). Límite real de Meta aún no verificado.
