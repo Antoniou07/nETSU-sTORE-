@@ -91,3 +91,11 @@ META ADS: pregunta: ¿Cuánto cuesta el inflador?
 META ADS: respuesta: 🛞 ₡14.900 IVA incluido. ¿En qué zona necesitás entrega?
 NO insertar enlaces en respuestas automáticas cortas de Meta Ads. Enlaces web/Facebook/Instagram y publicidad general se reservan para atajos de WhatsApp Business (/portalatas, /netsut01, /netsuinfo) cuando el cliente los solicite. Mantener links históricos en ficha interna, no como respuesta principal.
 Longitud pregunta: 27 caracteres Unicode; respuesta: 55 caracteres Unicode (Meta puede contar emojis de otra manera). Límite real de Meta aún no verificado.
+
+12. VERSIÓN VIGENTE — CORRECCIÓN META ADS
+Tarjeta 2: Inflador digital portátil, ₡14.900 IVA incluido.
+Pregunta: ¿Cuánto cuesta el inflador?
+Respuesta automática: 🛞 Mirá el inflador digital:
+FB: https://www.facebook.com/permalink.php?story_fbid=pfbid02YUm7N9x1T8wqjQtCXN769mCXdS4aMFTBh6gKtHHqjLaXz72a5FDQLPJyeRpbT1l&id=61579101474528
+IG: https://www.instagram.com/p/Devyq-cnJls/
+REGLA: La respuesta automática muestra enlaces del producto en FB e IG. La respuesta rápida de WhatsApp saluda, informa precios, disponibilidad y entrega. La web se reserva para información general o catálogo. Esta sección prevalece sobre las versiones anteriores contradictorias. NOTA: revisar Instagram porque coincide con el enlace de portalatas. Verificar límite real de Meta.
