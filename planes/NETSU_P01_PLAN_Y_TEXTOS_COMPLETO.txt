@@ -55,10 +55,10 @@ Mayoristas: Estándar 1–11 ₡7.000; 12–23 ₡6.500; 24–50 ₡6.000. Perso
 Ficha y configurador: https://netsu-store.juliomfutpo.workers.dev/#portalatas
 Precio unitario y total cambian por tipo y cantidad. Carrito compartido con otros productos; cierre por WhatsApp.
 La web es la fuente principal de condiciones vigentes. No prometer existencias sin confirmación.
-Enlaces sociales actualmente presentes en web (NO CONFIRMADOS como publicaciones de portalatas):
-Facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid02XoSZCqr8qqnuxDpxAteFWHGgv7U6Y58wXVnJamcDhrbFbByJSeqXodTw2CMuBzfwl&id=61579101474528
+Enlaces oficiales de portalatas proporcionados por usuario:
+Facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid0UAnPe7jkiqvJr92LtXoaWRU3xJVVm9NpQUyMc6tpwFkJNXGBdSjaXxtGucRqwz7Sl&id=61579101474528
 Instagram: https://www.instagram.com/p/Devyq-cnJls/
-ADVERTENCIA: Instagram coincide con referencia registrada de T01; verificar y corregir antes de usar en anuncios de portalatas.
+Nota: Instagram coincide con URL registrada previamente en T01. Se conserva en P01 por indicación expresa del usuario; revisar si se desea diferenciarlos.
 Fotos del configurador: assets/menta.webp, blanco.webp, negro.webp, rojo.webp, azul-marino.webp.
 Imagen promocional: assets/portada.webp; tabla: assets/precios-mayoreo.webp. Revisar que artes reflejen los precios oficiales.
 
@@ -67,20 +67,27 @@ Incluir nombre, fotos reales verificadas, colores, tabla de precios estándar/pe
 Estado: contenido definido; no se confirma PDF actualizado ni archivo PDF localizado.
 
 9. TARJETAS / PREGUNTAS PARA META ADS (PROPUESTA)
-Tarjeta 04: Portalatas Pura Vida — desde ₡7.000.
+Tarjeta 1: Portalatas Pura Vida y personalizados — desde ₡7.000.
 Pregunta: ¿Quiero portalatas Pura Vida?
 Respuesta breve: ¡Claro! 🥤 Estándar desde ₡7.000, IVA y empaque incluidos. Fotos, colores y descuentos: https://netsu-store.juliomfutpo.workers.dev/#portalatas ¿Cuántos necesitás?
-Tarjeta 05: Portalatas personalizados — desde ₡9.000.
+Personalizados se incluyen en la misma tarjeta 1 — desde ₡9.000.
 Pregunta: ¿Quiero portalatas personalizados?
 Respuesta breve: ¡Con gusto! ✨ Desde ₡9.000; precios por cantidad en https://netsu-store.juliomfutpo.workers.dev/#portalatas Mandanos tu diseño, cantidad y color por WhatsApp.
 El número real de preguntas disponibles se verifica en Meta Ads.
 
 10. PUBLICACIONES Y CONTROL
-Facebook portalatas: enlace presente en web, pendiente validar que corresponde.
-Instagram portalatas: enlace pendiente de validar; NO reutilizar el de T01 sin verificar.
+Facebook portalatas: enlace proporcionado por usuario, registrado.
+Instagram portalatas: enlace proporcionado por usuario; coincide con enlace registrado previamente para T01, revisar duplicidad.
 Marketplace: opcional.
 Reel: opcional.
 Campaña Meta Ads combinada: pendiente hasta terminar tarjetas y publicaciones.
 T01/T02: mantener registros separados. T03: siguiente producto a preparar.
 Guardar TXT en GitHub como maestro y copiar a carpeta local/Drive cuando se necesite respaldo.
 Palabras clave: portalatas, portalatas personalizados, pura vida, grabado láser, acero inoxidable, regalo personalizado, regalos Costa Rica, souvenir Costa Rica, regalos corporativos, eventos, Netsu Store.
+
+11. RESPUESTA AUTOMÁTICA DEFINITIVA — TARJETA 1
+¡Hola! 🥤 Portalatas Pura Vida desde ₡7.000 y personalizados desde ₡9.000. IVA y empaque de regalo incluidos; envío aparte.
+📸 Facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid0UAnPe7jkiqvJr92LtXoaWRU3xJVVm9NpQUyMc6tpwFkJNXGBdSjaXxtGucRqwz7Sl&id=61579101474528
+🛒 Colores, precios por cantidad y pedido: https://netsu-store.juliomfutpo.workers.dev/#portalatas
+📷 Instagram: https://www.instagram.com/p/Devyq-cnJls/
+¿Qué color, cantidad y tipo de grabado necesitás?
