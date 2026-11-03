@@ -73,3 +73,15 @@ Verificar inventario, accesorios, especificaciones, garantía y tiempos de entre
 Mantener la web como fuente de condiciones vigentes; publicaciones antiguas pueden requerir corrección.
 No inventar enlace Marketplace. No duplicar anuncio.
 Orden campaña: 1 Portalatas (Pura Vida y personalizados), 2 Inflador T01, 3 Arrancador T02; luego configurar anuncio y preparar productos 4 y 5.
+
+11. TARJETA 2 META ADS — VERSIÓN OPERATIVA CORTA (2026-11-03)
+Título: Inflador digital portátil ₡14.900
+Descripción: Práctico para llevar en tu vehículo.
+Pregunta: ¿Cuánto cuesta el inflador?
+Respuesta corta con los tres enlaces:
+🛞 Inflador digital ₡14.900. Fotos y detalles:
+🌐 https://netsu-store.juliomfutpo.workers.dev/inflador-digital.html
+📘 https://www.facebook.com/permalink.php?story_fbid=pfbid02YUm7N9x1T8wqjQtCXN769mCXtBSk4aMFTBh6gKtHHqjLaXz72a5FDQLPJyeRpbT1l&id=61579101474528
+📸 https://www.instagram.com/p/Devyq-cnJls/
+NOTA: El enlace Instagram coincide con el suministrado posteriormente para portalatas; verificar que corresponde realmente al inflador antes de activar. Si Meta limita caracteres, priorizar enlace a la web.
+Regla permanente de campaña: pregunta corta, respuesta corta, enviar a páginas y publicaciones; no duplicar fichas extensas en respuestas.
