@@ -66,44 +66,31 @@ Imagen promocional: assets/portada.webp; tabla: assets/precios-mayoreo.webp. Rev
 Incluir nombre, fotos reales verificadas, colores, tabla de precios estándar/personalizado, IVA y empaque incluidos, envío aparte, diseños especiales cotizados, QR/enlace a web y WhatsApp.
 Estado: contenido definido; no se confirma PDF actualizado ni archivo PDF localizado.
 
-9. TARJETAS / PREGUNTAS PARA META ADS (PROPUESTA)
-Tarjeta 1: Portalatas Pura Vida y personalizados — desde ₡7.000.
-Pregunta: ¿Quiero portalatas Pura Vida?
-Respuesta breve: ¡Claro! 🥤 Estándar desde ₡7.000, IVA y empaque incluidos. Fotos, colores y descuentos: https://netsu-store.juliomfutpo.workers.dev/#portalatas ¿Cuántos necesitás?
-Personalizados se incluyen en la misma tarjeta 1 — desde ₡9.000.
-Pregunta: ¿Quiero portalatas personalizados?
-Respuesta breve: ¡Con gusto! ✨ Desde ₡9.000; precios por cantidad en https://netsu-store.juliomfutpo.workers.dev/#portalatas Mandanos tu diseño, cantidad y color por WhatsApp.
-El número real de preguntas disponibles se verifica en Meta Ads.
-
-10. PUBLICACIONES Y CONTROL
-Facebook portalatas: enlace proporcionado por usuario, registrado.
-Instagram portalatas: enlace proporcionado por usuario; coincide con enlace registrado previamente para T01, revisar duplicidad.
-Marketplace: opcional.
-Reel: opcional.
-Campaña Meta Ads combinada: pendiente hasta terminar tarjetas y publicaciones.
-T01/T02: mantener registros separados. T03: siguiente producto a preparar.
-Guardar TXT en GitHub como maestro y copiar a carpeta local/Drive cuando se necesite respaldo.
-Palabras clave: portalatas, portalatas personalizados, pura vida, grabado láser, acero inoxidable, regalo personalizado, regalos Costa Rica, souvenir Costa Rica, regalos corporativos, eventos, Netsu Store.
-
-11. RESPUESTA AUTOMÁTICA DEFINITIVA — TARJETA 1
-¡Hola! 🥤 Portalatas Pura Vida desde ₡7.000 y personalizados desde ₡9.000. IVA y empaque de regalo incluidos; envío aparte.
-📸 Facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid0UAnPe7jkiqvJr92LtXoaWRU3xJVVm9NpQUyMc6tpwFkJNXGBdSjaXxtGucRqwz7Sl&id=61579101474528
-🛒 Colores, precios por cantidad y pedido: https://netsu-store.juliomfutpo.workers.dev/#portalatas
-📷 Instagram: https://www.instagram.com/p/Devyq-cnJls/
-¿Qué color, cantidad y tipo de grabado necesitás?
-
-12. RESPUESTA CORTA META ADS — 3 ENLACES, COPIAR Y PEGAR
+9. META ADS — TARJETA 1 (VERSIÓN VIGENTE, SUSTITUYE BORRADORES)
+Producto: Portalatas Pura Vida y personalizados (UNA tarjeta).
+Título: Portalatas Pura Vida desde ₡7.000
+Descripción: Grabado láser y personalizados.
 Pregunta: ¿Qué portalatas tienen?
-Respuesta:
-🥤 Portalatas Pura Vida y personalizados:
-🌐 https://netsu-store.juliomfutpo.workers.dev/#portalatas
-📘 https://www.facebook.com/permalink.php?story_fbid=pfbid0UAnPe7jkiqvJr92LtXoaWRU3xJVVm9NpQUyMc6tpwFkJNXGBdSjaXxtGucRqwz7Sl&id=61579101474528
-📸 https://www.instagram.com/p/Devyq-cnJls/
+Respuesta automática (enlaces directos del artículo; NO incluir página web):
+🥤 Mirá nuestros portalatas y personalizados:
+FB: https://www.facebook.com/permalink.php?story_fbid=pfbid0UAnPe7jkiqvJr92LtXoaWRU3xJVVm9NpQUyMc6tpwFkJNXGBdSjaXxtGucRqwz7Sl&id=61579101474528
+IG: https://www.instagram.com/p/Devyq-cnJls/
+IMPORTANTE: El límite real de caracteres en Meta está pendiente de verificar. Si no caben ambos enlaces, ajustar con el usuario según la interfaz; no sustituir automáticamente por web ni por respuestas sin enlaces.
+El Instagram facilitado para portalatas coincide con enlace previamente asignado a T01; revisar correspondencia antes de publicar.
 
-Los 3 enlaces se conservan en la respuesta porque permiten ver ficha/precios y publicaciones sociales. Verificar límite de caracteres en interfaz de Meta; si excede, priorizar web y Facebook. Instagram fue proporcionado por usuario como enlace de portalatas, aunque coincide con URL de T01 previamente registrada.
+10. RESPUESTAS RÁPIDAS DE WHATSAPP (NO SON LA RESPUESTA AUTOMÁTICA DE META)
+Atajo /portalatas
+¡Hola! 👋 Gracias por escribir a Netsu Store. 🥤 Tenemos portalatas Pura Vida desde ₡7.000 y personalizados desde ₡9.000. Incluyen IVA, grabado estándar y empaque de regalo. Envío aparte. ¿Qué cantidad, color y diseño buscás?
+Atajo /portalatasprecios
+Estándar: 1–11 ₡7.000; 12–23 ₡6.500; 24–50 ₡6.000 c/u. Personalizados: 1–3 ₡9.000; 4–11 ₡8.000; 12–23 ₡7.500; 24–50 ₡7.000 c/u. Diseños complejos se cotizan aparte.
+Atajo /netsuinfo
+¡Hola! 👋 Somos Netsu Store. Conocé nuestro catálogo: https://netsu-store.juliomfutpo.workers.dev/ | WhatsApp: https://wa.me/50672800252
 
-REGLA OPERATIVA ACTUALIZADA 2026-11-03 — PREVALECE SOBRE RESPUESTAS ANTERIORES
-META ADS: pregunta: ¿Tienen portalatas personalizados?
-META ADS: respuesta: 🥤 Pura Vida desde ₡7.000 y personalizados desde ₡9.000. ¿Cuántos necesitás?
-NO insertar enlaces en respuestas automáticas cortas de Meta Ads. Enlaces web/Facebook/Instagram y publicidad general se reservan para atajos de WhatsApp Business (/portalatas, /netsut01, /netsuinfo) cuando el cliente los solicite. Mantener links históricos en ficha interna, no como respuesta principal.
-Longitud pregunta: 34 caracteres Unicode; respuesta: 75 caracteres Unicode (Meta puede contar emojis de otra manera). Límite real de Meta aún no verificado.
+11. CONTROL DE PUBLICACIONES Y ENLACES
+Facebook portalatas: https://www.facebook.com/permalink.php?story_fbid=pfbid0UAnPe7jkiqvJr92LtXoaWRU3xJVVm9NpQUyMc6tpwFkJNXGBdSjaXxtGucRqwz7Sl&id=61579101474528
+Instagram portalatas (enlace proporcionado por usuario): https://www.instagram.com/p/Devyq-cnJls/
+Web del artículo (solo referencia interna, no en respuesta automática): https://netsu-store.juliomfutpo.workers.dev/#portalatas
+Marketplace: opcional. Reel: opcional.
+PDF catálogo: contenido definido, PDF final actualizado no verificado.
+Orden de campaña: tarjeta 1 portalatas; tarjeta 2 inflador T01; tarjeta 3 arrancador T02; dos restantes después.
+REGLA PERMANENTE: En Meta Ads, respuesta breve que lleva al cliente a publicaciones FB/IG del artículo; en WhatsApp Business, saludo, precios, disponibilidad y atención mediante respuestas rápidas. Web general solo cuando el cliente pide catálogo o información de Netsu Store. No confundir ambos tipos de respuesta.
