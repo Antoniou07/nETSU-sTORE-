@@ -5,7 +5,7 @@ Registro actualizado: 2026-11-03
 Producto: Shoe Dryer / secador de zapatos (T03), tecnología y hogar.
 Facebook: PUBLICADO según enlace proporcionado por usuario. Enlace recibido (contenido de la publicación no auditado): https://www.facebook.com/share/p/1QKFXwLFPv/
 Instagram: ENLACE DE PUBLICACIÓN PENDIENTE.
-Página web de ficha del producto: PENDIENTE DE CONFIRMAR URL. No inventar URL.
+Página web de ficha del producto: archivo shoe-dryer.html creado en GitHub; URL prevista https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html (despliegue público sin verificar).
 Perfil Instagram de la tienda: PENDIENTE DE CONFIRMAR URL exacta.
 WhatsApp pedidos: https://wa.me/50672800252
 Precio de venta propuesto en creativos y texto: ₡9.900 IVA incluido; confirmar precio final y stock antes de confirmar compra. Envío adicional.
@@ -35,7 +35,7 @@ Atajo individual: /netsut03
 💰 ₡9.900 IVA incluido; envío adicional.
 📘 Facebook del producto: https://www.facebook.com/share/p/1QKFXwLFPv/
 📸 Instagram de la publicación: [PENDIENTE ENLACE REAL]
-🌐 Página web del producto: [PENDIENTE FICHA PUBLICADA]
+🌐 Página web del producto: https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html (verificar que el despliegue esté disponible)
 ¿En qué zona sería la entrega? Te confirmamos precio final y disponibilidad.
 
 REGLA PERMANENTE PARA MENSAJE INSTANTÁNEO / AUTOMÁTICO EN WHATSAPP Y PARA RESPUESTAS RÁPIDAS:
@@ -48,14 +48,14 @@ Pregunta: ¿Tienen Shoe Dryer?
 Respuesta automática: priorizar siempre 3 enlaces (página web, publicación FB, publicación IG) SI CABEN; en caso contrario comprobar límite real de Meta y explicar qué no cabe SIN borrar datos ni romper procedimiento.
 Facebook: https://www.facebook.com/share/p/1QKFXwLFPv/
 Instagram: [PENDIENTE PUBLICACIÓN]
-Web: [PENDIENTE FICHA]
+Web: https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html (despliegue no verificado)
 El presupuesto del anuncio combinado Netsu se mantiene en USD 2/día total según plan previo. No afirmar que la campaña está activa.
 
 6. CONTROL DE PUBLICACIÓN
 Facebook: RECIBIDO Y REGISTRADO.
 Instagram: ESPERAR ENLACE EXACTO DEL USUARIO.
 Marketplace: texto listo para publicar; enlace pendiente de recibir.
-Web / PDF: pendiente de integración y verificación.
+Web: HTML creado y enlace añadido a index.html, despliegue público por confirmar. PDF: pendiente de integración y verificación.
 Última nota: nunca sustituir el producto real ni el logo; no inventar fichas o links. 
 
 
@@ -102,6 +102,36 @@ Fotografías: las cinco individuales 1080 x 1080, respetando equipo real y logo 
 ¡Hola! 👋 Bienvenido a Netsu Store. Gracias por escribirnos. 🛍️
 📘 Facebook Shoe Dryer: https://www.facebook.com/share/p/1QKFXwLFPv/
 📸 Instagram Shoe Dryer: [PENDIENTE ENLACE]
-🌐 Web Shoe Dryer: [PENDIENTE FICHA]
+🌐 Web Shoe Dryer: https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html (despliegue por verificar)
 📲 Contanos qué producto te interesa y tu zona para confirmar disponibilidad y entrega.
 No sustituir links específicos con el enlace general salvo para el mensaje de bienvenida general, donde se pueden incluir también los perfiles generales. Recordar completar pendientes tan pronto el usuario publique Instagram y exista la ficha web. 
+
+
+10. ACTUALIZACIÓN OPERATIVA 2026-11-04 — WEB, PUBLICACIONES Y FORMATOS
+Página de producto creada en GitHub: shoe-dryer.html (commit 30e93b3d00c3ce9db356c3878b71865394634a0e).
+Enlace a producto añadido a index.html (commit 54c1a4de419256a0072fc340b421974516986550).
+URL prevista de la web: https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html
+No confirmar URL públicamente accesible hasta probar despliegue de Cloudflare.
+Facebook publicado: https://www.facebook.com/share/p/1QKFXwLFPv/
+Instagram: texto listo para copiar en sección 7; publicar un carrusel de 5 archivos cuadrados 1080×1080; enlace individual pendiente.
+Marketplace: texto listo para copiar en sección 8; enlace publicado pendiente.
+Formatos de archivos optimizados localmente (no subidos a repo): NETSU_T03_PUBLICACION/01_portada.jpg, 02_producto_en_uso.jpg, 03_portabilidad.jpg, 04_dias_lluviosos.jpg, 05_beneficios.jpg (todos 1080×1080), 06_historia_1080x1920.jpg (1080×1920). No prometer que existan en GitHub ni estén servidos por la web.
+
+META ADS: TARJETA 4
+Título: Shoe Dryer · Secador de zapatos
+Descripción: 👟 Secador práctico · ₡9.900
+Pregunta corta: ¿Tienen Shoe Dryer?
+Respuesta automática (NO CONFIGURADA):
+👟 Mirá el Shoe Dryer:
+🌐 https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html
+📘 https://www.facebook.com/share/p/1QKFXwLFPv/
+📸 Instagram: [PENDIENTE ENLACE REAL]
+Verificar límite de caracteres en la interfaz Meta y disponibilidad real de la web antes de usar. No retirar enlaces sin explicarlo.
+
+WHATSAPP BUSINESS — AUTOMÁTICO GENERAL (NO CONFIGURADO):
+Bienvenido a Netsu Store. Consultá por el Shoe Dryer.
+🌐 https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html
+📘 https://www.facebook.com/share/p/1QKFXwLFPv/
+📸 Instagram: [PENDIENTE ENLACE REAL]
+📲 https://wa.me/50672800252
+Regla de siempre: todos los links web + Facebook + Instagram del producto se conservan; completar enlace real de IG tras publicar y evitar suposiciones.
