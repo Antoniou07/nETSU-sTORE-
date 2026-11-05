@@ -1,12 +1,12 @@
 # Organización de imágenes de Netsu Store
 
-Cada producto usa una carpeta propia. Se movieron los archivos originales sin alterar sus bytes ni duplicarlos.
+Cada producto tiene su propia carpeta. Las imágenes de la tienda están organizadas sin copias redundantes de los siete artes de portalatas. Los WebP optimizados son las versiones en uso.
 
 - P01 portalatas: `assets/p01-portalatas/` — foto de portada, cinco colores, tabla de precios
 - T01 inflador: `assets/t01-inflador/` — seis fotografías, `01_portada.png` como principal
 - T02 arrancador: `assets/t02-arrancador/` — cinco fotografías, `01_portada.png` como principal
 - T03 Shoe Dryer: `assets/t03-shoe-dryer/` — cinco fotografías, `01_portada.png` como principal
-- Archivo de fotos sin asignación comercial comprobada: `assets/_archivo/`, conservadas sin eliminarlas
+- Eliminada la carpeta temporal `assets/_archivo/`: sus siete PNG eran versiones originales de la misma portada, tabla de precios y cinco colores P01 ya conservados en WebP. Los archivos originales siguen recuperables en el historial de Git.
 
 La página principal y las fichas se refieren a las carpetas anteriores. Para el próximo producto, crear `assets/t04-masajeador/` solamente cuando tengamos imágenes finales y ficha aprobada; no generar archivos vacíos por adelantado.
 

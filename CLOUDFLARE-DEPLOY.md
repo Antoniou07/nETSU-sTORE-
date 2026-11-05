@@ -9,7 +9,7 @@ El repositorio de GitHub `Antoniou07/nETSU-sTORE-`, rama `main`, tiene activa la
 - Check del último commit: https://github.com/Antoniou07/nETSU-sTORE-/commit/c0d31947f1c18d124423394911985bd0bf5da2fe/checks
 
 ## Organización de fotos
-Consultar `assets/README.md`. Cada producto tiene carpeta: `p01-portalatas`, `t01-inflador`, `t02-arrancador`, `t03-shoe-dryer`; fotos sin clasificar están en `_archivo`. Las galerías y portadas ya refieren sus ubicaciones actuales.
+Consultar `assets/README.md`. Cada producto tiene carpeta: `p01-portalatas`, `t01-inflador`, `t02-arrancador`, `t03-shoe-dryer`; las siete imágenes duplicadas de portalatas que estaban en `_archivo` se eliminaron, conservando las versiones WebP publicadas. Las galerías y portadas ya refieren sus ubicaciones actuales.
 
 ## Verificar o corregir un despliegue
 1. Entrar a [Cloudflare Workers & Pages](https://dash.cloudflare.com/).
