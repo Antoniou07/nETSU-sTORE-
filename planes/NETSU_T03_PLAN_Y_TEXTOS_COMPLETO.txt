@@ -135,3 +135,9 @@ Bienvenido a Netsu Store. Consultá por el Shoe Dryer.
 📸 Instagram: [PENDIENTE ENLACE REAL]
 📲 https://wa.me/50672800252
 Regla de siempre: todos los links web + Facebook + Instagram del producto se conservan; completar enlace real de IG tras publicar y evitar suposiciones.
+
+
+ACTUALIZACIÓN WEB 2026-11-04 (CORRECCIÓN)
+Se movió el Shoe Dryer a la sección destacada de index.html, antes del inflador, con precio, enlace a ficha y portada a /assets/t03-shoe-dryer/01_portada.jpg. Ficha shoe-dryer.html modificada para galería automática de 5 fotos con miniaturas y respaldo a Facebook si no existen las fotos.
+Carpeta creada en repositorio: assets/t03-shoe-dryer/ (.gitkeep). FALTAN subir solo los 5 JPG a esa carpeta con nombres EXACTOS: 01_portada.jpg; 02_producto_en_uso.jpg; 03_portabilidad.jpg; 04_dias_lluviosos.jpg; 05_beneficios.jpg. Archivos están disponibles en el entorno del chat /mnt/data/NETSU_T03_PUBLICACION/ con esos nombres, 1080x1080; 06_historia_1080x1920.jpg no se necesita para la web.
+No duplicar imágenes ni pedir que el usuario las genere de nuevo. Una vez subidas, la página las reconocerá por ruta sin editar código. Verificar despliegue de Cloudflare: no se pudo acceder a workers.dev desde las herramientas; no afirmar que los commits ya están publicados allí.
