@@ -14,12 +14,12 @@
       ],
       "availability": "consultar",
       "images": [
-        "assets/menta.webp",
-        "assets/blanco.webp",
-        "assets/negro.webp",
-        "assets/rojo.webp",
-        "assets/azul-marino.webp",
-        "assets/precios.webp"
+        "assets/p01-portalatas/menta.webp",
+        "assets/p01-portalatas/blanco.webp",
+        "assets/p01-portalatas/negro.webp",
+        "assets/p01-portalatas/rojo.webp",
+        "assets/p01-portalatas/azul-marino.webp",
+        "assets/p01-portalatas/precios-mayoreo.webp"
       ],
       "pricing": {
         "standard": [
@@ -63,6 +63,61 @@
         ]
       },
       "customNotes": "Personalización sencilla; diseños especiales se cotizan aparte",
+      "whatsapp": "50672800252"
+    },
+    {
+      "id": "NETSU-T01",
+      "name": "Inflador digital portátil",
+      "description": "Inflador digital con controles de presión; detalles técnicos y existencias sujetos a confirmación.",
+      "currency": "CRC",
+      "price": 14900,
+      "priceStatus": "registrado",
+      "availability": "consultar",
+      "images": [
+        "assets/t01-inflador/01_portada.png",
+        "assets/t01-inflador/02_camino.png",
+        "assets/t01-inflador/03_llanta.png",
+        "assets/t01-inflador/04_accesorios.png",
+        "assets/t01-inflador/05_control.png",
+        "assets/t01-inflador/06_en_el_auto.png"
+      ],
+      "page": "inflador-digital.html",
+      "whatsapp": "50672800252"
+    },
+    {
+      "id": "NETSU-T02",
+      "name": "Arrancador portátil con compresor",
+      "description": "Asistencia de arranque para vehículos compatibles y compresor; confirmar compatibilidad y existencias.",
+      "currency": "CRC",
+      "price": 32900,
+      "priceStatus": "propuesto",
+      "availability": "consultar",
+      "images": [
+        "assets/t02-arrancador/01_portada.png",
+        "assets/t02-arrancador/02_emergencias.png",
+        "assets/t02-arrancador/03_llantas.png",
+        "assets/t02-arrancador/04_portabilidad.png",
+        "assets/t02-arrancador/05_accesorios.png"
+      ],
+      "page": "arrancador-compresor.html",
+      "whatsapp": "50672800252"
+    },
+    {
+      "id": "NETSU-T03",
+      "name": "Shoe Dryer",
+      "description": "Secador de zapatos compacto para ayudar a retirar humedad; disponibilidad y características por confirmar.",
+      "currency": "CRC",
+      "price": 9900,
+      "priceStatus": "propuesto",
+      "availability": "consultar",
+      "images": [
+        "assets/t03-shoe-dryer/01_portada.png",
+        "assets/t03-shoe-dryer/02_producto_en_uso.png",
+        "assets/t03-shoe-dryer/03_portabilidad.png",
+        "assets/t03-shoe-dryer/04_dias_lluviosos.png",
+        "assets/t03-shoe-dryer/05_beneficios.png"
+      ],
+      "page": "shoe-dryer.html",
       "whatsapp": "50672800252"
     }
   ]
