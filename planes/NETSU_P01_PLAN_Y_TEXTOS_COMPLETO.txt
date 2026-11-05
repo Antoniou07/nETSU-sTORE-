@@ -1,3 +1,5 @@
+ESTADO VIGENTE — 2026-11-05: Producto P01, fotos organizadas en assets/p01-portalatas/. Portada comercial portada.webp y cinco colores. Página y carrito conservados. Consultar assets/README.md.
+
 NETSU STORE — NETSU-P01 — PLAN Y TEXTOS COMPLETO
 Actualización: 2026-11-03
 FUENTE: información oficial suministrada por la tienda. No cambiar precios sin confirmación.
@@ -59,8 +61,8 @@ Enlaces oficiales de portalatas proporcionados por usuario:
 Facebook: https://www.facebook.com/permalink.php?story_fbid=pfbid0UAnPe7jkiqvJr92LtXoaWRU3xJVVm9NpQUyMc6tpwFkJNXGBdSjaXxtGucRqwz7Sl&id=61579101474528
 Instagram: https://www.instagram.com/p/Devyq-cnJls/
 Nota: Instagram coincide con URL registrada previamente en T01. Se conserva en P01 por indicación expresa del usuario; revisar si se desea diferenciarlos.
-Fotos del configurador: assets/menta.webp, blanco.webp, negro.webp, rojo.webp, azul-marino.webp.
-Imagen promocional: assets/portada.webp; tabla: assets/precios-mayoreo.webp. Revisar que artes reflejen los precios oficiales.
+Fotos del configurador: assets/p01-portalatas/{menta,blanco,negro,rojo,azul-marino}.webp.
+Imagen promocional: assets/p01-portalatas/portada.webp; tabla: assets/p01-portalatas/precios-mayoreo.webp. Revisar que artes reflejen los precios oficiales.
 
 8. PDF / CATÁLOGO
 Incluir nombre, fotos reales verificadas, colores, tabla de precios estándar/personalizado, IVA y empaque incluidos, envío aparte, diseños especiales cotizados, QR/enlace a web y WhatsApp.

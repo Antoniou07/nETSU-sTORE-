@@ -1,3 +1,5 @@
+ESTADO VIGENTE — 2026-11-05: Producto T03, cinco fotos ya subidas en assets/t03-shoe-dryer/, portada 01_portada.png. Galería, portada de home y carrito conectados. Instagram del producto aún sin enlace confirmado. No volver a subir fotos. Consultar assets/README.md.
+
 NETSU STORE — NETSU-T03 — SHOE DRYER (SECADOR DE ZAPATOS)
 Registro actualizado: 2026-11-03
 
@@ -138,6 +140,6 @@ Regla de siempre: todos los links web + Facebook + Instagram del producto se con
 
 
 ACTUALIZACIÓN WEB 2026-11-04 (CORRECCIÓN)
-Se movió el Shoe Dryer a la sección destacada de index.html, antes del inflador, con precio, enlace a ficha y portada a /assets/t03-shoe-dryer/01_portada.jpg. Ficha shoe-dryer.html modificada para galería automática de 5 fotos con miniaturas y respaldo a Facebook si no existen las fotos.
-Carpeta creada en repositorio: assets/t03-shoe-dryer/ (.gitkeep). FALTAN subir solo los 5 JPG a esa carpeta con nombres EXACTOS: 01_portada.jpg; 02_producto_en_uso.jpg; 03_portabilidad.jpg; 04_dias_lluviosos.jpg; 05_beneficios.jpg. Archivos están disponibles en el entorno del chat /mnt/data/NETSU_T03_PUBLICACION/ con esos nombres, 1080x1080; 06_historia_1080x1920.jpg no se necesita para la web.
+Se movió el Shoe Dryer a la sección destacada de index.html, antes del inflador, con precio, enlace a ficha y portada a /assets/t03-shoe-dryer/01_portada.png. Ficha shoe-dryer.html modificada para galería automática de 5 fotos con miniaturas y respaldo a Facebook si no existen las fotos.
+COMPLETADO: cinco imágenes originales YA SUBIDAS Y ORGANIZADAS en assets/t03-shoe-dryer/ como 01_portada.png, 02_producto_en_uso.png, 03_portabilidad.png, 04_dias_lluviosos.png y 05_beneficios.png. No volver a pedir al usuario fotos. La historia 1080x1920 es recurso de redes sociales, no necesaria para web.
 No duplicar imágenes ni pedir que el usuario las genere de nuevo. Una vez subidas, la página las reconocerá por ruta sin editar código. Verificar despliegue de Cloudflare: no se pudo acceder a workers.dev desde las herramientas; no afirmar que los commits ya están publicados allí.

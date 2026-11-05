@@ -1,24 +1,22 @@
-# Netsu Store — Cloudflare Pages
+# Netsu Store — Cloudflare Workers Builds
 
-Sitio estático HTML/CSS/JavaScript. El archivo principal es `index.html` en la raíz; las fotos están en `assets/`.
+## Estado verificado 2026-11-05
+El repositorio de GitHub `Antoniou07/nETSU-sTORE-`, rama `main`, tiene activa la integración **Cloudflare Workers Builds: netsu-store**. Se detectó una ejecución de compilación automática para el commit de organización de fotos `c0d31947f1c18d124423394911985bd0bf5da2fe`. La publicación final de esa ejecución debe comprobarse en los checks de GitHub / panel Cloudflare antes de afirmar que está en producción.
 
-## Configuración
-1. Iniciar sesión en Cloudflare y abrir **Workers & Pages**.
-2. Crear aplicación → **Pages** → **Connect to Git** (la interfaz puede variar).
-3. Autorizar GitHub y seleccionar `Antoniou07/nETSU-sTORE-`.
-4. Rama de producción: `main`.
-5. Framework preset: **None**.
-6. Build command: dejar vacío.
-7. Build output directory: `/` (raíz del repositorio; según la interfaz se puede indicar `.`).
-8. Publicar y probar la dirección `*.pages.dev` que Cloudflare asigne.
-9. Cuando esté comprobada la nueva dirección, dejar de usar la URL de Vercel para anuncios y clientes.
+- URL pública usada históricamente: https://netsu-store.juliomfutpo.workers.dev/
+- Página Shoe Dryer: https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html
+- Integración Git: GitHub -> Cloudflare Workers Builds, rama main.
+- Check del último commit: https://github.com/Antoniou07/nETSU-sTORE-/commit/c0d31947f1c18d124423394911985bd0bf5da2fe/checks
 
-No se necesita Shopify ni un despliegue manual para cada actualización. Los commits a `main` publicarán nuevas versiones automáticamente cuando Cloudflare esté conectado.
+## Organización de fotos
+Consultar `assets/README.md`. Cada producto tiene carpeta: `p01-portalatas`, `t01-inflador`, `t02-arrancador`, `t03-shoe-dryer`; fotos sin clasificar están en `_archivo`. Las galerías y portadas ya refieren sus ubicaciones actuales.
 
-## Estado de pedidos
-El carrito se guarda localmente en el navegador del comprador y genera un mensaje de WhatsApp. **No es una base de datos ni reserva inventario.** El vendedor confirma existencias, precio final y envío antes de enviar un enlace de cobro manual de Pagadito. No marcar pagado sin verificar la transacción en Pagadito.
+## Verificar o corregir un despliegue
+1. Entrar a [Cloudflare Workers & Pages](https://dash.cloudflare.com/).
+2. Abrir Worker `netsu-store` -> **Settings > Builds** y comprobar el repositorio y la rama main.
+3. Consultar el resultado del build en Cloudflare o los checks del commit de GitHub.
+4. Si está exitoso, refrescar la URL pública y las páginas de producto, preferiblemente con Ctrl+F5.
+5. Si el build falló, revisar logs de Cloudflare antes de volver a subir imágenes o editar código.
 
-## Siguientes integraciones
-- Inventario y pedidos centralizados: Google Sheets o base de datos + endpoint seguro; nunca exponer credenciales en `index.html`.
-- Pagos: enlaces manuales al principio. Una futura integración automática requerirá backend y confirmación segura del pago.
-- Meta Pixel: agregar ID real y revisar consentimiento, política de privacidad y eventos antes de activar publicidad de conversiones.
+## Carrito y pedidos
+Carrito en almacenamiento local del navegador, con SKU NETSU-P01, T01, T02 y T03. Pedidos dirigidos por WhatsApp a +506 7280-0252; las existencias y precios finales se confirman antes de cobrar. No registra cobro automático ni reserva inventario. Pixel Meta condicionado a configuración/consentimiento.

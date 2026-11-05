@@ -1,3 +1,5 @@
+ESTADO VIGENTE — 2026-11-05: Producto T01, seis fotos en assets/t01-inflador/, portada 01_portada.png. Galería y portada de home conectadas. No volver a subir fotos. Consultar assets/README.md.
+
 NETSU STORE — NETSU-T01 — PLAN Y TEXTOS COMPLETO
 Actualizado: 2026-11-03
 1. PRODUCTO Y ESTADO
@@ -55,14 +57,14 @@ NO publicar un anuncio individual por separado salvo decisión posterior. Texto 
 8. WEB / CARRITO
 Página: https://netsu-store.juliomfutpo.workers.dev/inflador-digital.html
 Carrito compartido: localStorage netsu-cart-v1; botón Agregar al carrito; finalizar pedido por WhatsApp desde /#carrito.
-Galería (6 fotos en assets/):
+Galería (6 fotos en assets/t01-inflador/):
 Inflador Digital Portátil Netsu.png
 Inflador Digital Portátil para tu Camino.png
 Inflador digital y rueda Michelin.png
 Inflador portátil con accesorios sobre madera.png
 Inflador portátil con control inteligente.png
 Inflador portátil en la consola del auto.png
-Pendiente: organizar fotos en assets/productos/NETSU-T01/ y actualizar rutas sin romper web.
+COMPLETADO: seis imágenes originales organizadas en assets/t01-inflador/; portada 01_portada.png; rutas actualizadas en index.html e inflador-digital.html.
 
 9. PDF / CATÁLOGO
 Contenido: foto principal, título, ₡14.900 IVA incluido, envío adicional, características verificadas, enlace web y WhatsApp.

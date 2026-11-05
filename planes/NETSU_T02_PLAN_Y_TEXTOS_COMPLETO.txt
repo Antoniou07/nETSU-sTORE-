@@ -1,3 +1,5 @@
+ESTADO VIGENTE — 2026-11-05: Producto T02, cinco fotos en assets/t02-arrancador/, portada 01_portada.png. Galería y portada de home conectadas. No volver a subir fotos. Consultar assets/README.md.
+
 NETSU STORE — NETSU-T02 — PLAN Y TEXTOS COMPLETO
 1. ESTADO Y DATOS
 Producto: arrancador portátil de batería + compresor de aire.
@@ -88,7 +90,7 @@ Instagram individual: https://www.instagram.com/p/DfRQDMojjYU/
 Marketplace: PENDIENTE.
 Reel: OPCIONAL.
 Validar proveedor: stock, capacidad, amperaje, vehículos compatibles, accesorios, garantía, precio final.
-Organizar imágenes en subcarpeta assets/productos/NETSU-T02/: PENDIENTE.
+COMPLETADO: cinco imágenes organizadas en assets/t02-arrancador/; portada 01_portada.png, miniaturas 02_emergencias.png, 03_llantas.png, 04_portabilidad.png, 05_accesorios.png.
 Revisar página publicada y compra desde carrito: PENDIENTE.
 
 10. VALIDACIÓN Y TRASPASO
@@ -121,4 +123,4 @@ REGLA: En Meta, enlace directo FB e IG del producto, sin web general ni explicac
 
 
 ACTUALIZACIÓN WEB 2026-11-04
-Portada principal del arrancador arreglada en index.html para usar la imagen real ya subida: /assets/Arrancador%20Netsu-T02_%20Infl%C3%A1%20y%20Arranc%C3%A1.png. Página individual arrancador-compresor.html ya apunta a las cinco imágenes de assets/. Revisar despliegue público; el servidor workers.dev no fue accesible desde herramienta de verificación. No es necesario subir otra vez las imágenes T02 salvo que fallen en la publicación.
+ACTUALIZACIÓN VIGENTE: portada /assets/t02-arrancador/01_portada.png y cinco fotografías en assets/t02-arrancador/. Rutas actualizadas en index.html y arrancador-compresor.html. No volver a subir estas fotos. El despliegue está conectado a Cloudflare Workers Builds; verificar su resultado y la página pública.
