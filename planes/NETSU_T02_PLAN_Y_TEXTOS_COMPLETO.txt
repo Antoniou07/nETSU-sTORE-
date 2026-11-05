@@ -118,3 +118,7 @@ FB: https://www.facebook.com/share/p/1FUPd8KAHE/
 IG: https://www.instagram.com/p/DfRQDMojjYU/
 Respuesta rápida WhatsApp /netsut02: ¡Hola! 👋 Gracias por escribir a Netsu Store. El arrancador con compresor tiene precio propuesto de ₡32.900 IVA incluido, envío aparte. ¿Para qué vehículo lo necesitás y en qué zona sería la entrega? Confirmamos compatibilidad y stock.
 REGLA: En Meta, enlace directo FB e IG del producto, sin web general ni explicaciones largas. WhatsApp contiene saludo, precio y seguimiento. Verificar límite exacto en la interfaz. Precio propuesto, pendiente confirmar.
+
+
+ACTUALIZACIÓN WEB 2026-11-04
+Portada principal del arrancador arreglada en index.html para usar la imagen real ya subida: /assets/Arrancador%20Netsu-T02_%20Infl%C3%A1%20y%20Arranc%C3%A1.png. Página individual arrancador-compresor.html ya apunta a las cinco imágenes de assets/. Revisar despliegue público; el servidor workers.dev no fue accesible desde herramienta de verificación. No es necesario subir otra vez las imágenes T02 salvo que fallen en la publicación.
