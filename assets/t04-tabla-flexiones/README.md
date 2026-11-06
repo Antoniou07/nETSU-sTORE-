@@ -13,3 +13,6 @@ Subir los cinco JPG del paquete de creativos aprobado, conservando exactamente e
 Precio de lanzamiento: **₡7.900 IVA incluido; envío aparte**. Confirmar disponibilidad, especificaciones y condiciones de compra con el proveedor.
 
 La web y Metricool solo deben enlazar las fotos cuando los cinco archivos existan realmente en GitHub y la publicación sea revisada.
+
+
+Ficha preparada: `/tabla-flexiones.html`; producto añadido a portada y carrito. **Hasta subir los cinco JPG, las imágenes en la ficha mostrarán un respaldo hacia Facebook.** No declarar que están en GitHub solo por tener sus rutas escritas. Confirmar el despliegue de Cloudflare tras subirlos.
