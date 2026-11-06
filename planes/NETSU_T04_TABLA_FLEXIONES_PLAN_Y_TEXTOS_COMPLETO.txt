@@ -144,3 +144,17 @@ Consultá disponibilidad y tiempo de entrega antes de confirmar tu compra.
 ACTUALIZACIÓN 2026-11-05 — PRODUCTO T04 EN MARKETPLACE
 Usuario confirmó explícitamente que T04 ya fue subido a Marketplace, sin proporcionar URL de publicación. NO marcar como pendiente de publicación; solo pendiente su enlace para el registro.
 Campaña Meta Ads combinada: ver planes/NETSU_CAMPAÑA_META_ADS_5_PRODUCTOS_NOV2026.txt. Preparada, no lanzada.
+
+
+ACTUALIZACIÓN — 2026-11-05 — FICHA WEB CREADA EN GITHUB
+Código creado: tabla-flexiones.html
+URL de la ficha prevista tras despliegue: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html
+Integrada en index.html, data/products.json y carrito compartido (NETSU-T04, precio ₡7.900 IVA incluido).
+GALERÍA PREPARADA (FOTOS AÚN NO SUBIDAS A GITHUB):
+assets/t04-tabla-flexiones/01_portada.jpg
+assets/t04-tabla-flexiones/02_rutinas_musculares.jpg
+assets/t04-tabla-flexiones/03_guia_de_colores.jpg
+assets/t04-tabla-flexiones/04_plegable_portatil.jpg
+assets/t04-tabla-flexiones/05_que_incluye.jpg
+Estos cinco nombres coinciden con el ZIP preparado en el chat. Página usa respaldo a FB si las fotos no están en GitHub. La publicación de Marketplace fue confirmada por usuario; URL todavía pendiente.
+No afirmar que la URL ya fue comprobada en Cloudflare: despliegue público no verificable desde herramientas.
