@@ -1,7 +1,7 @@
 NETSU STORE — T04 — TABLA DE FLEXIONES PLEGABLE MULTIFUNCIONAL
 DOCUMENTO MAESTRO CONSOLIDADO | ACTUALIZADO 2026-11-06
 SKU: NETSU-T04 | Producto 5 de 5 | Precio público: ₡7.900 IVA incluido | Envío aparte
-IMPORTANTE: Este es el estado ACTUAL. Se eliminaron referencias antiguas [PENDIENTE] de campos ya resueltos. Historial de redacción anterior disponible en GitHub > History.
+IMPORTANTE: Este es el estado ACTUAL. Se corrigieron los campos que antes figuraban como pendientes pese a tener un enlace real. Historial de redacción anterior disponible en GitHub > History.
 
 1. ENLACES PRINCIPALES (USAR ESTOS, NO LOS DE OTRO PRODUCTO)
 🌐 FICHA WEB T04: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html
