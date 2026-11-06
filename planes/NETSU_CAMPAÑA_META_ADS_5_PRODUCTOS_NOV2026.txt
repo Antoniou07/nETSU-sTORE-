@@ -56,17 +56,17 @@ Imagen: assets/t03-shoe-dryer/01_portada.png
 Título corto: Secador de zapatos
 Descripción: ₡9.900 · IVA incl. (precio propuesto)
 FB madre: https://www.facebook.com/share/p/1QKFXwLFPv/
-IG: PENDIENTE PUBLICACIÓN/ENLACE REAL; NO INVENTAR.
+IG: https://www.instagram.com/p/Dfapu1IDpmH/
 Ficha: https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html
 
 TARJETA 5
 Producto: Tabla de flexiones
-Imagen: portada aprobada local T04; FOTOS NO SUBIDAS A GITHUB al 2026-11-05.
+Imagen: assets/t04-tabla-flexiones/01_portada.jpg (ruta prevista; verificar subida real antes de usar).
 Título corto: Tabla de flexiones
 Descripción: ₡7.900 · IVA incl.
 FB madre: https://www.facebook.com/share/p/1Ewi6B46sL/
 IG: https://www.instagram.com/p/DfYoJT8lcRy/
-Ficha: PENDIENTE, no enlazar a web general como sustituto.
+Ficha: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html (archivo HTML creado; despliegue público por verificar y 5 fotos pendientes de subir)
 
 MENSAJERÍA / RESPUESTAS
 Saludo sugerido:
@@ -85,7 +85,7 @@ STATUS PUBLICACIONES
 P01: Facebook e Instagram registrados.
 T01: Facebook registrado; Instagram en maestro coincide con P01, requiere verificación.
 T02: Facebook e Instagram registrados.
-T03: Facebook registrado; Instagram pendiente.
+T03: Facebook e Instagram registrados.
 T04: Facebook + Instagram registrados; Marketplace PUBLICADO SEGÚN USUARIO el 2026-11-05 (enlace Marketplace aún no aportado).
 Anuncio: PENDIENTE, no se han hecho cambios en la cuenta Meta Ads desde ChatGPT.
 COMPROBACIONES ANTES DE ACTIVAR
@@ -100,3 +100,18 @@ COMPROBACIONES ANTES DE ACTIVAR
 ACTUALIZACIÓN 2026-11-05 — CÓDIGO WEB T04
 Nueva ficha preparada en GitHub: tabla-flexiones.html, URL de destino prevista https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html. Fotos T04 pendientes de cargar a assets/t04-tabla-flexiones/. No considerar ficha con imágenes completas hasta que estén subidas.
 También se corrigió miniatura de portada en ficha de Shoe Dryer. Meta Ads no lanzado; mantener 1 carrusel con 5 tarjetas y USD 2/día total, CTA WhatsApp.
+
+
+ACTUALIZACIÓN VIGENTE — 2026-11-06 — TODOS LOS ENLACES T03/T04
+T03 SHOE DRYER
+Facebook madre: https://www.facebook.com/share/p/1QKFXwLFPv/
+Instagram: https://www.instagram.com/p/Dfapu1IDpmH/
+Ficha web: https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html
+T04 TABLA DE FLEXIONES
+Facebook madre: https://www.facebook.com/share/p/1Ewi6B46sL/
+Instagram: https://www.instagram.com/p/DfYoJT8lcRy/
+Ficha web: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html — código disponible en GitHub, despliegue no verificado, faltan las cinco fotos T04.
+T04 Marketplace: publicado según usuario; URL del anuncio de Marketplace todavía no recibida.
+MENSAJES ESPECÍFICOS POR PRODUCTO (para WhatsApp/Meta; enlaces reales, no web general):
+T03: ¡Hola! 👟 Shoe Dryer, ₡9.900 IVA incluido; envío aparte. Web: https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html | Facebook: https://www.facebook.com/share/p/1QKFXwLFPv/ | Instagram: https://www.instagram.com/p/Dfapu1IDpmH/ ¿En qué zona lo necesitás? Confirmamos existencias.
+T04: ¡Hola! 💪 Tabla de flexiones, ₡7.900 IVA incluido; envío aparte. Facebook: https://www.facebook.com/share/p/1Ewi6B46sL/ | Instagram: https://www.instagram.com/p/DfYoJT8lcRy/ | Ficha: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html (usar esta ficha solo tras comprobar despliegue). ¿En qué zona la necesitás? Confirmamos existencias.
