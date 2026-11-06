@@ -1,19 +1,21 @@
-NETSU STORE — META ADS — CAMPAÑA COMBINADA 5 PRODUCTOS
-Fecha: 2026-11-05
-ESTADO: PLAN LISTO PARA CONFIGURAR EN ADMINISTRADOR DE ANUNCIOS; NO PUBLICADO NI ACTIVADO DESDE CHAT.
-PRESUPUESTO: USD $2/día TOTAL para una campaña con UN conjunto y UN anuncio tipo carrusel de cinco tarjetas. No son $2 por tarjeta.
-OBJETIVO: Interacción (Engagement) -> apps de mensajería/destino de mensajes -> WhatsApp Business +506 7280-0252. Usar meta de conversaciones cuando esté disponible. Controles/nombres pueden variar en cuenta.
-NO usar Tráfico al sitio solo porque el Pixel está pendiente; la conversión buscada es iniciar chats.
-NOMBRE CAMPAÑA: NETSU | Mensajes WhatsApp | 5 Productos | Nov 2026
-NOMBRE CONJUNTO: CR | WhatsApp | USD2 diario | General
-NOMBRE ANUNCIO: Carrusel 5 Productos | NETSU | Nov2026
-PROPUESTA PÚBLICO INICIAL: Costa Rica, 18+, mujeres y hombres, expansión/Advantage+ si se muestra. Evitar segmentación excesiva con presupuesto tan pequeño. Ubicaciones automáticas sujetas a que muestren bien los creativos.
-FORMATO: Carrusel, 5 tarjetas independientes, una portada verticalmente centrada 1:1 por producto. Meta Ads usa 1 portada por artículo, NO subir las 5 fotos de cada producto en el mismo anuncio.
-CTA: Enviar mensaje a WhatsApp. Crear anuncio nuevo; NO tratar de combinar las 5 publicaciones madres existentes en un solo post.
-LÍMITES: Si Meta rechaza $2/día para la configuración elegida, no activar otro presupuesto sin consultar; adaptar configuración compatible o revisar límite. Verificar WhatsApp vinculado a Facebook.
-PRECIOS: IVA incluido; envíos adicionales. Disponibilidad por confirmar. Precio T02 y T03 aun marcado como propuesto en los maestros; confirmar antes de activar publicidad.
+NETSU STORE — META ADS — CAMPAÑA GENERAL CINCO PRODUCTOS
+DOCUMENTO MAESTRO CONSOLIDADO | ACTUALIZADO 2026-11-06
+ESTADO: CAMPANA PREPARADA, NO ACTIVADA DESDE CHAT. Todos los enlaces T03 y T04 ya están registrados en su sección, no solo en notas al final.
+PRESUPUESTO: USD 2/día TOTAL para 1 campaña, 1 conjunto y 1 anuncio carrusel de cinco tarjetas. NO 2 USD por tarjeta.
 
-TEXTO PRINCIPAL ANUNCIO — PARA COPIAR:
+1. AJUSTES PLANIFICADOS EN ADMINISTRADOR META ADS
+Campaña: NETSU | Mensajes WhatsApp | 5 Productos | Nov 2026
+Conjunto: CR | WhatsApp | USD2 diario | General
+Anuncio: Carrusel 5 Productos | NETSU | Nov2026
+Objetivo: Interacción/Conversaciones -> WhatsApp Business (según opciones disponibles en Meta).
+Destino y CTA: Enviar mensaje por WhatsApp, +506 7280-0252.
+Audiencia inicial propuesta: Costa Rica, 18+, hombres y mujeres; sin segmentación demasiado estrecha para $2 diarios.
+Ubicaciones: revisar vistas previas y dejar las compatibles con imágenes 1:1.
+Creativo: una portada por PRODUCTO, no cinco fotos de cada uno.
+Pixel Meta no configurado: no hace falta para recibir chats de WhatsApp.
+IMPORTANTE: Meta puede imponer presupuesto mínimo o límite de preguntas; verificar en interfaz antes de activar. NO subir presupuesto sin aprobación.
+
+2. TEXTO PRINCIPAL ÚNICO DEL ANUNCIO — LISTO PARA COPIAR
 🔥 ¡Descubrí NETSU STORE! Productos útiles para tu día a día, tu carro y tus entrenamientos.
 🥤 Portalatas Pura Vida desde ₡7.000
 🛞 Inflador digital ₡14.900
@@ -23,118 +25,105 @@ TEXTO PRINCIPAL ANUNCIO — PARA COPIAR:
 ✅ Precios con IVA incluido. 🚚 Envío aparte según zona.
 📲 Deslizá para conocer nuestros productos y escribinos por WhatsApp para consultar fotos, disponibilidad y entrega.
 
-TARJETA 1
-Producto: Portalatas Pura Vida
-Imagen: portada real aprobada P01, verificar a través de assets/p01-portalatas
-Título corto: Portalatas Pura Vida
-Descripción: Desde ₡7.000 · IVA incl.
-FB madre: https://www.facebook.com/permalink.php?story_fbid=pfbid0UAnPe7jkiqvJr92LtXoaWRU3xJVVm9NpQUyMc6tpwFkJNXGBdSjaXxtGucRqwz7Sl&id=61579101474528
-IG: https://www.instagram.com/p/Devyq-cnJls/
-Ficha: https://netsu-store.juliomfutpo.workers.dev/#portalatas
+3. TARJETAS DEL ANUNCIO (ORDEN, TÍTULO, PRECIO, ENLACES REALES)
+TARJETA 1 — PORTALATAS PURA VIDA [NETSU-P01]
+Imagen: assets/p01-portalatas/portada.webp (verificar en carpeta al elegir arte correcto).
+Título: Portalatas Pura Vida
+Descripción: Desde ₡7.000 · IVA incluido
+Facebook madre: https://www.facebook.com/permalink.php?story_fbid=pfbid0UAnPe7jkiqvJr92LtXoaWRU3xJVVm9NpQUyMc6tpwFkJNXGBdSjaXxtGucRqwz7Sl&id=61579101474528
+Instagram: https://www.instagram.com/p/Devyq-cnJls/
+Ficha web: https://netsu-store.juliomfutpo.workers.dev/#portalatas
 
-TARJETA 2
-Producto: Inflador digital
+TARJETA 2 — INFLADOR DIGITAL [NETSU-T01]
 Imagen: assets/t01-inflador/01_portada.png
-Título corto: Inflador digital
-Descripción: ₡14.900 · IVA incl.
-FB madre: https://www.facebook.com/permalink.php?story_fbid=pfbid02YUm7N9x1T8wqjQtCXN769mCXtBSk4aMFTBh6gKtHHqjLaXz72a5FDQLPJyeRpbT1l&id=61579101474528
-IG: REGISTRADO MISMO ENLACE QUE P01; CONFIRMAR QUE SEA REAL DE T01 ANTES DE PUBLICAR EN RESPUESTAS.
-Ficha: https://netsu-store.juliomfutpo.workers.dev/inflador-digital.html
+Título: Inflador digital
+Descripción: ₡14.900 · IVA incluido
+Facebook madre: https://www.facebook.com/permalink.php?story_fbid=pfbid02YUm7N9x1T8wqjQtCXN769mCXtBSk4aMFTBh6gKtHHqjLaXz72a5FDQLPJyeRpbT1l&id=61579101474528
+Instagram: POR VERIFICAR — el TXT T01 contiene mismo enlace que portalatas P01; no presentarlo como Instagram específico de T01 sin confirmación.
+Ficha web: https://netsu-store.juliomfutpo.workers.dev/inflador-digital.html
 
-TARJETA 3
-Producto: Arrancador y compresor
+TARJETA 3 — ARRANCADOR + COMPRESOR [NETSU-T02]
 Imagen: assets/t02-arrancador/01_portada.png
-Título corto: Arrancador + compresor
-Descripción: ₡32.900 · IVA incl. (precio propuesto)
-FB madre: https://www.facebook.com/share/p/1FUPd8KAHE/
-IG: https://www.instagram.com/p/DfRQDMojjYU/
-Ficha: https://netsu-store.juliomfutpo.workers.dev/arrancador-compresor.html
+Título: Arrancador + compresor
+Descripción: ₡32.900 · IVA incluido [precio propuesto, confirmar]
+Facebook madre: https://www.facebook.com/share/p/1FUPd8KAHE/
+Instagram: https://www.instagram.com/p/DfRQDMojjYU/
+Ficha web: https://netsu-store.juliomfutpo.workers.dev/arrancador-compresor.html
 
-TARJETA 4
-Producto: Shoe Dryer
-Imagen: assets/t03-shoe-dryer/01_portada.png
-Título corto: Secador de zapatos
-Descripción: ₡9.900 · IVA incl. (precio propuesto)
-FB madre: https://www.facebook.com/share/p/1QKFXwLFPv/
-IG: https://www.instagram.com/p/Dfapu1IDpmH/
-Ficha: https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html
-
-TARJETA 5
-Producto: Tabla de flexiones
-Imagen: assets/t04-tabla-flexiones/01_portada.jpg (ruta prevista; verificar subida real antes de usar).
-Título corto: Tabla de flexiones
-Descripción: ₡7.900 · IVA incl.
-FB madre: https://www.facebook.com/share/p/1Ewi6B46sL/
-IG: https://www.instagram.com/p/DfYoJT8lcRy/
-Ficha: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html (archivo HTML creado; despliegue público por verificar y 5 fotos pendientes de subir)
-
-MENSAJERÍA / RESPUESTAS
-Saludo sugerido:
-¡Hola! 👋 Bienvenido a Netsu Store. 🔥 ¿Cuál producto te interesa? Te compartimos fotos, precio final y entrega por WhatsApp.
-Cinco preguntas por producto SI la interfaz permite esa cantidad; NO asegurar que todas disparen respuestas automáticas distintas:
-1) 🥤 Quiero ver portalatas
-2) 🛞 Quiero ver el inflador
-3) 🚗 Quiero ver el arrancador
-4) 👟 Quiero ver el Shoe Dryer
-5) 💪 Quiero ver la tabla
-Si Meta solo permite 3 preguntas: 1) Personalizados/portalatas 2) Tecnología y auto (inflador, arrancador, Shoe Dryer) 3) Fitness (tabla).
-Usar respuesta rápida manual de WhatsApp si Meta no permite contestaciones automáticas distintas por pregunta.
-Respuestas deben usar enlaces reales FB+IG+web por producto donde existan; no inventar T03 IG ni T04 ficha; cuando falte un enlace, usar FB madre y WhatsApp hasta tenerlo.
-
-STATUS PUBLICACIONES
-P01: Facebook e Instagram registrados.
-T01: Facebook registrado; Instagram en maestro coincide con P01, requiere verificación.
-T02: Facebook e Instagram registrados.
-T03: Facebook e Instagram registrados.
-T04: Facebook + Instagram registrados; Marketplace PUBLICADO SEGÚN USUARIO el 2026-11-05 (enlace Marketplace aún no aportado).
-Anuncio: PENDIENTE, no se han hecho cambios en la cuenta Meta Ads desde ChatGPT.
-COMPROBACIONES ANTES DE ACTIVAR
-- WhatsApp correcto vinculado a página Netsu Store.
-- Orden de cinco tarjetas, textos de precios, imágenes correctas, sin material/specs no confirmadas.
-- Presupuesto TOTAL $2 diario, no por conjunto/tarjeta.
-- Ubicaciones compatibles y previsualizaciones, incluidas IG/FB.
-- No duplicar campaña previa ni activar sin revisar.
-- Confirmar 2 precios propuestos T02/T03, stock, entrega y política de venta antes de invertir.
-
-
-ACTUALIZACIÓN 2026-11-05 — CÓDIGO WEB T04
-Nueva ficha preparada en GitHub: tabla-flexiones.html, URL de destino prevista https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html. Fotos T04 pendientes de cargar a assets/t04-tabla-flexiones/. No considerar ficha con imágenes completas hasta que estén subidas.
-También se corrigió miniatura de portada en ficha de Shoe Dryer. Meta Ads no lanzado; mantener 1 carrusel con 5 tarjetas y USD 2/día total, CTA WhatsApp.
-
-
-ACTUALIZACIÓN VIGENTE — 2026-11-06 — TODOS LOS ENLACES T03/T04
-T03 SHOE DRYER
+TARJETA 4 — SHOE DRYER [NETSU-T03]
+Imagen: assets/t03-shoe-dryer/01_portada.png (YA en GitHub)
+Título: Shoe Dryer / Secador de zapatos
+Descripción: ₡9.900 · IVA incluido [precio propuesto, confirmar]
 Facebook madre: https://www.facebook.com/share/p/1QKFXwLFPv/
 Instagram: https://www.instagram.com/p/Dfapu1IDpmH/
 Ficha web: https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html
-T04 TABLA DE FLEXIONES
+Estado: Web creada, galería de 5 fotos cargadas en GitHub; despliegue público aún por comprobar.
+
+TARJETA 5 — TABLA DE FLEXIONES [NETSU-T04]
+Imagen: assets/t04-tabla-flexiones/01_portada.jpg [ARCHIVO AÚN SIN SUBIR A GITHUB]
+Título: Tabla de flexiones
+Descripción: ₡7.900 · IVA incluido
 Facebook madre: https://www.facebook.com/share/p/1Ewi6B46sL/
 Instagram: https://www.instagram.com/p/DfYoJT8lcRy/
-Ficha web: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html — código disponible en GitHub, despliegue no verificado, faltan las cinco fotos T04.
-T04 Marketplace: publicado según usuario; URL del anuncio de Marketplace todavía no recibida.
-MENSAJES ESPECÍFICOS POR PRODUCTO (para WhatsApp/Meta; enlaces reales, no web general):
-T03: ¡Hola! 👟 Shoe Dryer, ₡9.900 IVA incluido; envío aparte. Web: https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html | Facebook: https://www.facebook.com/share/p/1QKFXwLFPv/ | Instagram: https://www.instagram.com/p/Dfapu1IDpmH/ ¿En qué zona lo necesitás? Confirmamos existencias.
-T04: ¡Hola! 💪 Tabla de flexiones, ₡7.900 IVA incluido; envío aparte. Facebook: https://www.facebook.com/share/p/1Ewi6B46sL/ | Instagram: https://www.instagram.com/p/DfYoJT8lcRy/ | Ficha: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html (usar esta ficha solo tras comprobar despliegue). ¿En qué zona la necesitás? Confirmamos existencias.
+Ficha web: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html
+Estado: código y carrito creados en GitHub; subir las cinco fotos JPG a assets/t04-tabla-flexiones/, comprobar despliegue antes de presentar la galería como terminada. Marketplace T04 publicado según usuario, URL individual no recibida.
 
+4. MENSAJES PARA WHATSAPP — PREGUNTAS DE PRODUCTO
+Saludo:
+¡Hola! 👋 Bienvenido a Netsu Store. 🔥 ¿Cuál producto te interesa? Te compartimos fotos, precios y entrega por WhatsApp.
 
-RESPUESTAS META ADS — T04 — 2026-11-06 (preparadas para pegar; NO activadas desde el chat)
-PREGUNTA: 💪 ¿Cuánto cuesta la tabla de flexiones?
-RESPUESTA:
-¡Hola! 👋💪 Gracias por consultar en Netsu Store.
-Nuestra tabla de flexiones plegable cuesta ₡7.900, IVA incluido. El envío se cobra aparte.
-Incluye una tabla plegable y dos agarraderas desmontables, con guía de colores para diferentes ejercicios.
-🌐 Web del producto: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html
-📘 Facebook madre: https://www.facebook.com/share/p/1Ewi6B46sL/
-📸 Instagram: https://www.instagram.com/p/DfYoJT8lcRy/
-📦 ¿En qué zona necesitás la entrega? Te confirmamos disponibilidad y costo de envío.
-ADVERTENCIA: ficha web creada en GitHub, pero despliegue público sin verificar y galería JPG sin carga confirmada. Mientras tanto, FB e IG contienen las fotos publicadas. Nunca sustituir URL de ficha específica con web general silenciosamente.
+PREGUNTA 1: 🥤 ¿Cuánto cuestan los portalatas?
+RESPUESTA: ¡Hola! 🥤 Portalatas Pura Vida desde ₡7.000 y personalizados desde ₡9.000. IVA incluido, envío aparte.
+🌐 https://netsu-store.juliomfutpo.workers.dev/#portalatas
+📘 https://www.facebook.com/permalink.php?story_fbid=pfbid0UAnPe7jkiqvJr92LtXoaWRU3xJVVm9NpQUyMc6tpwFkJNXGBdSjaXxtGucRqwz7Sl&id=61579101474528
+📸 https://www.instagram.com/p/Devyq-cnJls/
+¿Qué cantidad y color te interesan?
 
-PREGUNTA GENERAL ADICIONAL: 🚚 ¿Hacen envíos y cómo puedo comprar?
-RESPUESTA:
-¡Sí! 🚚 Hacemos entregas en Costa Rica; el costo depende de la ubicación. Para ayudarte, decinos cuál producto te interesa y en qué cantón o distrito lo necesitás. Te confirmamos disponibilidad, plazo y total antes de pagar. 📲 WhatsApp: https://wa.me/50672800252
+PREGUNTA 2: 🛞 ¿Cuánto cuesta el inflador?
+RESPUESTA: ¡Hola! 🛞 Inflador digital ₡14.900 IVA incluido, envío aparte.
+🌐 https://netsu-store.juliomfutpo.workers.dev/inflador-digital.html
+📘 https://www.facebook.com/permalink.php?story_fbid=pfbid02YUm7N9x1T8wqjQtCXN769mCXtBSk4aMFTBh6gKtHHqjLaXz72a5FDQLPJyeRpbT1l&id=61579101474528
+📸 Instagram T01: PENDIENTE DE VERIFICAR URL (no usar por error la URL de portalatas).
+¿En qué zona necesitás entrega?
 
-PREGUNTA GENERAL ADICIONAL: 🛍️ ¿Qué productos tiene Netsu Store?
-RESPUESTA:
-¡Tenemos portalatas Pura Vida, inflador digital, arrancador con compresor, Shoe Dryer y tabla de flexiones! 🔥 Decinos cuál querés conocer y te compartimos las fotos y precios específicos. 📲 https://wa.me/50672800252
+PREGUNTA 3: 🚗 ¿Cuánto cuesta el arrancador con compresor?
+RESPUESTA: ¡Hola! 🚗⚡ Arrancador portátil con compresor ₡32.900 IVA incluido, envío aparte; confirmar compatibilidad y stock.
+🌐 https://netsu-store.juliomfutpo.workers.dev/arrancador-compresor.html
+📘 https://www.facebook.com/share/p/1FUPd8KAHE/
+📸 https://www.instagram.com/p/DfRQDMojjYU/
+¿Para qué vehículo lo necesitás y en qué zona?
 
-Nota: si Meta limita la longitud o cantidad de respuestas automáticas, no asegurar que todos los textos se configuran íntegros. Mantener los tres enlaces completos T04 en respuesta rápida de WhatsApp Business /netsut04 como respaldo.
+PREGUNTA 4: 👟 ¿Cuánto cuesta el Shoe Dryer?
+RESPUESTA: ¡Hola! 👟 Shoe Dryer ₡9.900 IVA incluido, envío aparte; precio y stock sujetos a confirmación.
+🌐 https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html
+📘 https://www.facebook.com/share/p/1QKFXwLFPv/
+📸 https://www.instagram.com/p/Dfapu1IDpmH/
+¿En qué zona lo necesitás?
+
+PREGUNTA 5: 💪 ¿Cuánto cuesta la tabla de flexiones?
+RESPUESTA: ¡Hola! 💪 Tabla plegable de flexiones ₡7.900 IVA incluido, envío aparte.
+Incluye una tabla con guía de colores y dos agarraderas desmontables.
+🌐 https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html
+📘 https://www.facebook.com/share/p/1Ewi6B46sL/
+📸 https://www.instagram.com/p/DfYoJT8lcRy/
+¿En qué zona necesitás la entrega? Confirmamos disponibilidad y costo.
+Nota T04: web tiene ruta específica creada; verificar despliegue y carga de fotos antes de anunciarla como galería completa.
+
+5. PREGUNTAS GENERALES ADICIONALES (SOLO SI META PERMITE MÁS)
+PREGUNTA: 🚚 ¿Hacen envíos y cómo puedo comprar?
+RESPUESTA: ¡Sí! Hacemos entregas en Costa Rica; el costo depende de tu ubicación. Decinos cuál producto te interesa y en qué cantón o distrito lo necesitás. Te confirmamos disponibilidad, plazo y precio total antes de pagar. WhatsApp: https://wa.me/50672800252
+
+PREGUNTA: 🛍️ ¿Qué productos tiene Netsu Store?
+RESPUESTA: ¡Tenemos portalatas Pura Vida, inflador, arrancador con compresor, Shoe Dryer y tabla de flexiones! 🔥 Decinos cuál te interesa y te compartimos fotos, precios y condiciones de entrega. WhatsApp: https://wa.me/50672800252
+
+Si Meta solo admite tres preguntas, agrupar por PERSONALIZADOS, TECNOLOGÍA/AUTO y FITNESS y atender con respuestas rápidas manuales por producto. Si los textos exceden límite, comprobar el aviso exacto antes de acortar. NO eliminar los enlaces maestros: estarán disponibles en WhatsApp Business.
+
+6. COMPROBACIONES ANTES DE ACTIVAR
+[ ] Cuenta correcta de Netsu Store y número WhatsApp 7280-0252 vinculados.
+[ ] Cinco portadas correctas, logo original de llama, precios y orden de tarjetas.
+[ ] Confirmar precio de venta T02/T03, existencias, entrega y condiciones.
+[ ] Confirmar el enlace Instagram específico del inflador T01, actualmente duplicado con P01 en registro anterior.
+[ ] Verificar ficha T04 y fotos (aún no cargadas a GitHub, conforme última inspección).
+[ ] Revisar vista previa del carrusel y que la llamada a la acción abra WhatsApp.
+[ ] Presupuesto TOTAL USD 2/día; si Meta exige otro mínimo, consultar antes de activar.
+[ ] No duplicar campaña anterior ni afirmar que los mensajes ya están activos.
