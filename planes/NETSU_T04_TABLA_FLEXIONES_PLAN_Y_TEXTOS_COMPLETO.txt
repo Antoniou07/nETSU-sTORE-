@@ -54,16 +54,15 @@ No subir cinco imágenes T04 a las cinco tarjetas: cada tarjeta corresponde a un
 PREGUNTA:
 💪 ¿Cuánto cuesta la tabla de flexiones?
 
-RESPUESTA AUTOMÁTICA:
-¡Hola! 👋💪 Gracias por consultar en Netsu Store.
-Nuestra tabla de flexiones plegable cuesta ₡7.900 IVA incluido. El envío se cobra aparte.
-Incluye una tabla plegable y dos agarraderas desmontables, con guía de colores para distintos ejercicios.
-🌐 Web del producto: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html
-📘 Facebook: https://www.facebook.com/share/p/1Ewi6B46sL/
-📸 Instagram: https://www.instagram.com/p/DfYoJT8lcRy/
-📦 ¿En qué zona necesitás la entrega? Te confirmamos disponibilidad y costo de envío.
+RESPUESTA AUTOMÁTICA (VERSIÓN CORTA PARA META, MÁXIMO 300 CARACTERES):
+💪 Tabla de flexiones: ₡7.900 IVA incluido. Envío aparte.
+🌐 https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html
+📘 https://www.facebook.com/share/p/1Ewi6B46sL/
+📸 https://www.instagram.com/p/DfYoJT8lcRy/
+📍 ¿En qué zona sería la entrega?
+Conteo de caracteres Unicode: 246. Revisar contador nativo de Meta para emojis.
 
-IMPORTANTE: incluir los 3 enlaces específicos, pero NO presentar la página como galería ya completada hasta verificar el despliegue/fotos. Si Meta limita caracteres, mantener los tres enlaces en respuesta rápida /netsut04 de WhatsApp Business y usar una respuesta reducida en Meta solo después de comprobar el límite real. Estos textos están preparados, NO configurados todavía en la cuenta Meta.
+IMPORTANTE: el texto corto anterior es el destinado al campo de respuesta de Meta Ads (límite operativo de 300 caracteres ya usado). WhatsApp Business /netsut04 conserva su versión larga. La URL de la ficha T04 tiene HTML creado; galería y despliegue siguen por verificar. Textos preparados, NO configurados todavía en la cuenta.
 
 ATAJO WHATSAPP BUSINESS: /netsut04
 ¡Hola! 👋 ¡Gracias por consultar en Netsu Store!
