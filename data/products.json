@@ -119,6 +119,27 @@
       ],
       "page": "shoe-dryer.html",
       "whatsapp": "50672800252"
+    },
+    {
+      "id": "NETSU-T04",
+      "name": "Tabla de flexiones plegable",
+      "description": "Tabla de flexiones plegable con guía de colores y dos agarraderas desmontables. IVA incluido; envío aparte. Consultá disponibilidad.",
+      "currency": "CRC",
+      "price": 7900,
+      "priceStatus": "aprobado",
+      "availability": "consultar",
+      "images": [
+        "assets/t04-tabla-flexiones/01_portada.jpg",
+        "assets/t04-tabla-flexiones/02_rutinas_musculares.jpg",
+        "assets/t04-tabla-flexiones/03_guia_de_colores.jpg",
+        "assets/t04-tabla-flexiones/04_plegable_portatil.jpg",
+        "assets/t04-tabla-flexiones/05_que_incluye.jpg"
+      ],
+      "imagesStatus": "pendientes_de_subir_a_GitHub",
+      "page": "tabla-flexiones.html",
+      "facebook": "https://www.facebook.com/share/p/1Ewi6B46sL/",
+      "instagram": "https://www.instagram.com/p/DfYoJT8lcRy/",
+      "whatsapp": "50672800252"
     }
   ]
 }
