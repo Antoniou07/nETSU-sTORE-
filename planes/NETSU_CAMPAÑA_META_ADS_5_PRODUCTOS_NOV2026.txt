@@ -115,3 +115,26 @@ T04 Marketplace: publicado según usuario; URL del anuncio de Marketplace todav�
 MENSAJES ESPECÍFICOS POR PRODUCTO (para WhatsApp/Meta; enlaces reales, no web general):
 T03: ¡Hola! 👟 Shoe Dryer, ₡9.900 IVA incluido; envío aparte. Web: https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html | Facebook: https://www.facebook.com/share/p/1QKFXwLFPv/ | Instagram: https://www.instagram.com/p/Dfapu1IDpmH/ ¿En qué zona lo necesitás? Confirmamos existencias.
 T04: ¡Hola! 💪 Tabla de flexiones, ₡7.900 IVA incluido; envío aparte. Facebook: https://www.facebook.com/share/p/1Ewi6B46sL/ | Instagram: https://www.instagram.com/p/DfYoJT8lcRy/ | Ficha: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html (usar esta ficha solo tras comprobar despliegue). ¿En qué zona la necesitás? Confirmamos existencias.
+
+
+RESPUESTAS META ADS — T04 — 2026-11-06 (preparadas para pegar; NO activadas desde el chat)
+PREGUNTA: 💪 ¿Cuánto cuesta la tabla de flexiones?
+RESPUESTA:
+¡Hola! 👋💪 Gracias por consultar en Netsu Store.
+Nuestra tabla de flexiones plegable cuesta ₡7.900, IVA incluido. El envío se cobra aparte.
+Incluye una tabla plegable y dos agarraderas desmontables, con guía de colores para diferentes ejercicios.
+🌐 Web del producto: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html
+📘 Facebook madre: https://www.facebook.com/share/p/1Ewi6B46sL/
+📸 Instagram: https://www.instagram.com/p/DfYoJT8lcRy/
+📦 ¿En qué zona necesitás la entrega? Te confirmamos disponibilidad y costo de envío.
+ADVERTENCIA: ficha web creada en GitHub, pero despliegue público sin verificar y galería JPG sin carga confirmada. Mientras tanto, FB e IG contienen las fotos publicadas. Nunca sustituir URL de ficha específica con web general silenciosamente.
+
+PREGUNTA GENERAL ADICIONAL: 🚚 ¿Hacen envíos y cómo puedo comprar?
+RESPUESTA:
+¡Sí! 🚚 Hacemos entregas en Costa Rica; el costo depende de la ubicación. Para ayudarte, decinos cuál producto te interesa y en qué cantón o distrito lo necesitás. Te confirmamos disponibilidad, plazo y total antes de pagar. 📲 WhatsApp: https://wa.me/50672800252
+
+PREGUNTA GENERAL ADICIONAL: 🛍️ ¿Qué productos tiene Netsu Store?
+RESPUESTA:
+¡Tenemos portalatas Pura Vida, inflador digital, arrancador con compresor, Shoe Dryer y tabla de flexiones! 🔥 Decinos cuál querés conocer y te compartimos las fotos y precios específicos. 📲 https://wa.me/50672800252
+
+Nota: si Meta limita la longitud o cantidad de respuestas automáticas, no asegurar que todos los textos se configuran íntegros. Mantener los tres enlaces completos T04 en respuesta rápida de WhatsApp Business /netsut04 como respaldo.
