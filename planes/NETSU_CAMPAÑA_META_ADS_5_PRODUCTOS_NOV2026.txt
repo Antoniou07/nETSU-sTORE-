@@ -111,8 +111,14 @@ Conteo Unicode: 246; verificar el contador exacto de Meta según emojis.
 Nota: ficha T04 programada, fotos aún no cargadas. Respuesta rápida WhatsApp /netsut04 conserva el texto largo.
 
 5. PREGUNTAS GENERALES ADICIONALES (SOLO SI META PERMITE MÁS)
-PREGUNTA: 🚚 ¿Hacen envíos y cómo puedo comprar?
-RESPUESTA: ¡Sí! Hacemos entregas en Costa Rica; el costo depende de tu ubicación. Decinos cuál producto te interesa y en qué cantón o distrito lo necesitás. Te confirmamos disponibilidad, plazo y precio total antes de pagar. WhatsApp: https://wa.me/50672800252
+PREGUNTA 6: 🚚 ¿Hacen envíos y cómo puedo comprar?
+RESPUESTA META (266 unidades UTF-16; dentro del límite operativo de 300, sujeto al contador de Meta):
+¡Sí! 🚚 Enviamos en Costa Rica (costo aparte).
+🌐 https://netsu-store.juliomfutpo.workers.dev/
+📘 https://www.facebook.com/profile.php?id=61579101474528
+📸 https://www.instagram.com/netsustorecr/
+Decinos el producto y tu zona; te pasamos sus fotos, precio y entrega.
+Nota: estos enlaces son GENERALES de la tienda. En WhatsApp enviar ficha WEB + FB MADRE + IG ESPECÍFICOS al seleccionar producto, usando planes/NETSU_RESPUESTAS_WHATSAPP_Y_PREGUNTA_6_2026-11-06.txt.
 
 PREGUNTA: 🛍️ ¿Qué productos tiene Netsu Store?
 RESPUESTA: ¡Tenemos portalatas Pura Vida, inflador, arrancador con compresor, Shoe Dryer y tabla de flexiones! 🔥 Decinos cuál te interesa y te compartimos fotos, precios y condiciones de entrega. WhatsApp: https://wa.me/50672800252
