@@ -1,6 +1,6 @@
 NETSU STORE — T04 — TABLA DE FLEXIONES PLEGABLE MULTIFUNCIONAL
 Fecha de preparación: 2026-11-05
-ESTADO: PUBLICACIÓN MADRE DE FACEBOOK ENLACE PROPORCIONADO POR USUARIO (2026-11-05). Instagram y Facebook madre: enlaces recibidos. Pendiente Marketplace, ficha específica web y configuración de Meta Ads. Stock y condiciones de proveedor por confirmar.
+ESTADO VIGENTE 2026-11-06: Facebook madre e Instagram publicados según enlaces del usuario. Marketplace también publicado según usuario (URL aún no compartida). Ficha web tabla-flexiones.html creada en GitHub; despliegue y carga de 5 fotos T04 pendientes de verificar. Meta Ads preparado pero NO activado. Stock y condiciones de proveedor por confirmar.
 
 PRODUCTO
 Tabla de flexiones plegable / Push Up Board, negra con guía de posiciones multicolor y dos agarraderas desmontables, según foto real de caja aportada por usuario, tomada el 4 septiembre 2026.
@@ -77,8 +77,8 @@ CONTROL DE PUBLICACIÓN
 Facebook publicación madre: https://www.facebook.com/share/p/1Ewi6B46sL/
 Instagram publicación individual: https://www.instagram.com/p/DfYoJT8lcRy/
 Marketplace publicación: PUBLICADA SEGÚN USUARIO 2026-11-05; ENLACE PENDIENTE DE COMPARTIR
-Ficha web específica y galería: [PENDIENTE, agregar después de publicación madre; respetar carpetas y no duplicar imágenes]
-Carrito único y Meta Ads: [PENDIENTE]
+Ficha web específica: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html (HTML creado, despliegue sin verificar; galería JPG aún pendiente de subida)
+Carrito único: INTEGRADO en web. Meta Ads: PENDIENTE ACTIVACIÓN.
 Presupuesto campaña combinada cinco productos: USD 2/día TOTAL, no por tarjeta.
 Atención: la web general ya existe, pero no debe presentarse como URL de ficha T04.
 
@@ -158,3 +158,11 @@ assets/t04-tabla-flexiones/04_plegable_portatil.jpg
 assets/t04-tabla-flexiones/05_que_incluye.jpg
 Estos cinco nombres coinciden con el ZIP preparado en el chat. Página usa respaldo a FB si las fotos no están en GitHub. La publicación de Marketplace fue confirmada por usuario; URL todavía pendiente.
 No afirmar que la URL ya fue comprobada en Cloudflare: despliegue público no verificable desde herramientas.
+
+
+ACTUALIZACIÓN DE ENLACES MAESTROS T04 — 2026-11-06
+Facebook madre: https://www.facebook.com/share/p/1Ewi6B46sL/
+Instagram individual: https://www.instagram.com/p/DfYoJT8lcRy/
+Ficha propia: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html (creada en código, despliegue y carga de las cinco fotos sin confirmar)
+WhatsApp: https://wa.me/50672800252
+Marketplace: publicado, enlace individual pendiente de recibir. Las respuestas de Meta/WhatsApp deben compartir ambos enlaces sociales; añadir ficha una vez verificada. No repetir/renombrar imágenes ni inventar links.
