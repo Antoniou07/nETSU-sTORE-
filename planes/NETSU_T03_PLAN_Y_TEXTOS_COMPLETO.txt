@@ -1,4 +1,4 @@
-ESTADO VIGENTE — 2026-11-05: Producto T03, cinco fotos ya subidas en assets/t03-shoe-dryer/, portada 01_portada.png. Galería, portada de home y carrito conectados. Instagram del producto: https://www.instagram.com/p/Dfapu1IDpmH/ (enlace proporcionado por usuario 2026-11-06; contenido no auditable automáticamente). No volver a subir fotos. Consultar assets/README.md.
+ESTADO VIGENTE — 2026-11-06: Producto T03, cinco fotos ya subidas en assets/t03-shoe-dryer/, portada 01_portada.png. Galería, portada de home y carrito conectados. Instagram del producto: https://www.instagram.com/p/Dfapu1IDpmH/ (enlace proporcionado por usuario 2026-11-06; contenido no auditable automáticamente). No volver a subir fotos. Consultar assets/README.md.
 
 NETSU STORE — NETSU-T03 — SHOE DRYER (SECADOR DE ZAPATOS)
 Registro actualizado: 2026-11-03
@@ -8,7 +8,7 @@ Producto: Shoe Dryer / secador de zapatos (T03), tecnología y hogar.
 Facebook: PUBLICADO según enlace proporcionado por usuario. Enlace recibido (contenido de la publicación no auditado): https://www.facebook.com/share/p/1QKFXwLFPv/
 Instagram publicado — enlace aportado por usuario: https://www.instagram.com/p/Dfapu1IDpmH/
 Página web de ficha del producto: archivo shoe-dryer.html creado en GitHub; URL prevista https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html (despliegue público sin verificar).
-Perfil Instagram de la tienda: PENDIENTE DE CONFIRMAR URL exacta.
+Perfil Instagram de la tienda: https://www.instagram.com/netsustorecr/
 WhatsApp pedidos: https://wa.me/50672800252
 Precio de venta propuesto en creativos y texto: ₡9.900 IVA incluido; confirmar precio final y stock antes de confirmar compra. Envío adicional.
 Modelo exacto, alimentación, accesorios, funciones y garantía: verificar con foto/caja y proveedor; no inventar especificaciones.
@@ -155,3 +155,11 @@ Facebook madre: https://www.facebook.com/share/p/1QKFXwLFPv/
 Ficha del Shoe Dryer: https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html
 WhatsApp: https://wa.me/50672800252
 El usuario proporcionó la URL de Instagram después de organizar los 5 productos para Meta Ads. Se registra como publicación del Shoe Dryer (único IG faltante). Instagram bloqueó la inspección directa del contenido desde herramientas; validar visualmente desde la cuenta si se requiere confirmación del producto antes del lanzamiento.
+
+
+ENLACES MAESTROS T03 VERIFICADOS EN REPOSITORIO — 2026-11-06
+Facebook madre: https://www.facebook.com/share/p/1QKFXwLFPv/
+Instagram publicado, enlace proporcionado por usuario: https://www.instagram.com/p/Dfapu1IDpmH/
+Ficha web: https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html (verificar despliegue).
+WhatsApp: https://wa.me/50672800252
+Enlaces integrados en shoe-dryer.html, index.html, data/products.json, y plan Meta Ads cinco productos. Las cinco fotos originales T03 ya estaban subidas; NO duplicar.
