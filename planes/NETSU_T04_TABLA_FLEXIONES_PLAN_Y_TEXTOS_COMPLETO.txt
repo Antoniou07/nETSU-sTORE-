@@ -76,7 +76,7 @@ Mensaje base:
 CONTROL DE PUBLICACIÓN
 Facebook publicación madre: https://www.facebook.com/share/p/1Ewi6B46sL/
 Instagram publicación individual: https://www.instagram.com/p/DfYoJT8lcRy/
-Marketplace publicación: [PENDIENTE ENLACE]
+Marketplace publicación: PUBLICADA SEGÚN USUARIO 2026-11-05; ENLACE PENDIENTE DE COMPARTIR
 Ficha web específica y galería: [PENDIENTE, agregar después de publicación madre; respetar carpetas y no duplicar imágenes]
 Carrito único y Meta Ads: [PENDIENTE]
 Presupuesto campaña combinada cinco productos: USD 2/día TOTAL, no por tarjeta.
@@ -139,3 +139,8 @@ Descripción:
 📸 Instagram — fotos del producto: https://www.instagram.com/p/DfYoJT8lcRy/
 🔥 NETSU STORE
 Consultá disponibilidad y tiempo de entrega antes de confirmar tu compra.
+
+
+ACTUALIZACIÓN 2026-11-05 — PRODUCTO T04 EN MARKETPLACE
+Usuario confirmó explícitamente que T04 ya fue subido a Marketplace, sin proporcionar URL de publicación. NO marcar como pendiente de publicación; solo pendiente su enlace para el registro.
+Campaña Meta Ads combinada: ver planes/NETSU_CAMPAÑA_META_ADS_5_PRODUCTOS_NOV2026.txt. Preparada, no lanzada.
