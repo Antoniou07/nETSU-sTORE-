@@ -1,191 +1,116 @@
 NETSU STORE — T04 — TABLA DE FLEXIONES PLEGABLE MULTIFUNCIONAL
-Fecha de preparación: 2026-11-05
-ESTADO VIGENTE 2026-11-06: Facebook madre e Instagram publicados según enlaces del usuario. Marketplace también publicado según usuario (URL aún no compartida). Ficha web tabla-flexiones.html creada en GitHub; despliegue y carga de 5 fotos T04 pendientes de verificar. Meta Ads preparado pero NO activado. Stock y condiciones de proveedor por confirmar.
+DOCUMENTO MAESTRO CONSOLIDADO | ACTUALIZADO 2026-11-06
+SKU: NETSU-T04 | Producto 5 de 5 | Precio público: ₡7.900 IVA incluido | Envío aparte
+IMPORTANTE: Este es el estado ACTUAL. Se eliminaron referencias antiguas [PENDIENTE] de campos ya resueltos. Historial de redacción anterior disponible en GitHub > History.
 
-PRODUCTO
-Tabla de flexiones plegable / Push Up Board, negra con guía de posiciones multicolor y dos agarraderas desmontables, según foto real de caja aportada por usuario, tomada el 4 septiembre 2026.
-No inventar: ligas, bolsa, ruedas, peso máximo, medidas, antideslizamiento garantizado, certificaciones, garantía, materiales o duración.
-SKU: NETSU-T04 (quinto artículo comercial de campaña; P01 + T01 + T02 + T03 + T04).
+1. ENLACES PRINCIPALES (USAR ESTOS, NO LOS DE OTRO PRODUCTO)
+🌐 FICHA WEB T04: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html
+📘 FACEBOOK MADRE T04: https://www.facebook.com/share/p/1Ewi6B46sL/
+📸 INSTAGRAM T04: https://www.instagram.com/p/DfYoJT8lcRy/
+📲 WHATSAPP NETSU STORE: https://wa.me/50672800252
+🛍️ MARKETPLACE T04: PUBLICADO SEGÚN USUARIO; URL INDIVIDUAL AÚN NO COMPARTIDA.
+ESTADO DE LA WEB: archivo tabla-flexiones.html creado y conectado desde index.html, JSON de productos y carrito; despliegue público no verificado y las cinco fotos NO constan aún subidas a GitHub. La URL de arriba es la ruta específica PREPARADA, NO una ficha completamente verificada.
+ESTADO META ADS: respuestas preparadas en este TXT; campaña todavía no activada desde ChatGPT.
 
-PRECIO Y MARGEN
-Precio de lanzamiento al público acordado: ₡7.900 IVA incluido. Envío aparte.
-Etiqueta de proveedor en foto: XM ₡3.500; DT ₡5.250. Confirmar si XM requiere mínimo de compra, si hay stock y si el costo incluye IVA.
-Diferencia bruta simple a XM ₡3.500: ₡4.400. A DT ₡5.250: ₡2.650. NO es utilidad neta; descontar IVA aplicable, costo de pasarela, publicidad, entrega, empaques y devoluciones.
-NO UTILIZAR el creativo que mostraba ₡5.950: precio erróneo, no aprobado.
-Referencia de mercado consultada noviembre 2026: listado AcoStore Push-Up new ₡5.800 y tabla JT-006 ₡9.000, modelos más complejos en tiendas mucho más altos; no anunciar 'mejor precio' porque no es el más barato.
-Portada comercial vigente: creatividad generada en chat con ₡7.900, logo de llama Netsu Store; revisar que el producto y textos sean fieles antes de publicar. Otras cuatro creatividades cuadradas generadas en conversación, no validadas como archivos en GitHub. Formato comercial buscado 1080×1080, historia 1080×1920. No afirmar que archivos están en GitHub.
+2. PRODUCTO, PRECIOS Y MARGEN
+Nombre comercial: Tabla de flexiones plegable multifuncional / Push Up Board.
+Producto: tablero negro con guía de posiciones de colores y dos agarraderas desmontables, según foto de caja aportada por usuario el 4 de septiembre de 2026.
+Precio de lanzamiento aprobado: ₡7.900 IVA incluido. Envío adicional según zona.
+Etiqueta de proveedor en foto: XM ₡3.500; DT ₡5.250.
+Diferencia bruta simple: ₡4.400 contra XM, ₡2.650 contra DT. NO es utilidad neta: considerar IVA, comisiones por tarjeta/pasarela, IVA de comisiones, publicidad, empaques, envío, retiros y devoluciones.
+Por confirmar: existencias, mínimos para precio XM, si el costo de proveedor incluye IVA y plazos.
+NO afirmar sin verificación: garantía, marca/modelo exacto, medidas, resistencia máxima, materiales, base antideslizante certificada, ligas, bolsa, ruedas, especificaciones médicas o accesorios extra.
+NO usar el precio antiguo de ₡5.950 ni el logo equivocado. Branding correcto: Netsu Store con llama roja/naranja.
 
-PUBLICACIÓN MADRE FACEBOOK — LISTA PARA COPIAR
+3. PUBLICACIONES REALES — ESTADO
+Facebook: PUBLICADO; enlace madre recibido del usuario: https://www.facebook.com/share/p/1Ewi6B46sL/
+Instagram: PUBLICADO; enlace del usuario: https://www.instagram.com/p/DfYoJT8lcRy/
+Marketplace: PUBLICADO según usuario; pendiente únicamente de recibir su URL individual.
+No editar ni republicar lo ya publicado solo para insertar enlaces nuevos; preservar enlaces para Meta Ads/WhatsApp.
+Fotografías de redes: cinco artes cuadrados independientes, en orden portada, rutinas, colores, plegable/portátil y contenido del paquete. Historia vertical opcional, no necesaria para anuncios iniciales.
+
+4. FOTOGRAFÍAS Y WEB — RUTAS EXACTAS
+Carpeta existente en GitHub: assets/t04-tabla-flexiones/
+Archivos aún PENDIENTES DE SUBIR A ESA CARPETA:
+  01_portada.jpg
+  02_rutinas_musculares.jpg
+  03_guia_de_colores.jpg
+  04_plegable_portatil.jpg
+  05_que_incluye.jpg
+Ficha específica: tabla-flexiones.html (ya creada en GitHub).
+Carrito de tienda: T04 integrado como NETSU-T04, ₡7.900.
+Home: T04 integrada en index.html.
+Datos: T04 integrada en data/products.json.
+PASO PENDIENTE: subir cinco JPG reales y comprobar que el despliegue de Cloudflare muestre portada y galería. No afirmar que las fotos están cargadas solo porque las rutas figuran aquí.
+
+5. META ADS — TARJETA 5 DEL CARRUSEL GENERAL
+Campaña: NETSU | Mensajes WhatsApp | 5 Productos | Nov 2026
+Configuración: UN anuncio carrusel con 5 tarjetas (una por producto), UN conjunto, presupuesto TOTAL USD 2/día, botón Enviar mensaje por WhatsApp.
+Tarjeta 5: Tabla de flexiones | Descripción: ₡7.900 · IVA incluido
+Portada para tarjeta: 01_portada.jpg (aprobada; pendiente subida a GitHub para uso web).
+No subir cinco imágenes T04 a las cinco tarjetas: cada tarjeta corresponde a un producto distinto.
+
+6. META ADS — PREGUNTA Y RESPUESTA DE LA TABLA (LISTAS PARA COPIAR)
+PREGUNTA:
+💪 ¿Cuánto cuesta la tabla de flexiones?
+
+RESPUESTA AUTOMÁTICA:
+¡Hola! 👋💪 Gracias por consultar en Netsu Store.
+Nuestra tabla de flexiones plegable cuesta ₡7.900 IVA incluido. El envío se cobra aparte.
+Incluye una tabla plegable y dos agarraderas desmontables, con guía de colores para distintos ejercicios.
+🌐 Web del producto: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html
+📘 Facebook: https://www.facebook.com/share/p/1Ewi6B46sL/
+📸 Instagram: https://www.instagram.com/p/DfYoJT8lcRy/
+📦 ¿En qué zona necesitás la entrega? Te confirmamos disponibilidad y costo de envío.
+
+IMPORTANTE: incluir los 3 enlaces específicos, pero NO presentar la página como galería ya completada hasta verificar el despliegue/fotos. Si Meta limita caracteres, mantener los tres enlaces en respuesta rápida /netsut04 de WhatsApp Business y usar una respuesta reducida en Meta solo después de comprobar el límite real. Estos textos están preparados, NO configurados todavía en la cuenta Meta.
+
+ATAJO WHATSAPP BUSINESS: /netsut04
+¡Hola! 👋 ¡Gracias por consultar en Netsu Store!
+💪 Tabla de flexiones plegable — ₡7.900 IVA incluido, envío aparte.
+🌐 Ficha: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html
+📘 Facebook: https://www.facebook.com/share/p/1Ewi6B46sL/
+📸 Instagram: https://www.instagram.com/p/DfYoJT8lcRy/
+¿En qué zona necesitás la entrega y cuántas unidades te interesan? Confirmamos disponibilidad, precio final y entrega.
+
+7. OTRAS DOS PREGUNTAS SUGERIDAS DE META ADS
+PREGUNTA: 🚚 ¿Hacen envíos y cómo puedo comprar?
+RESPUESTA: ¡Sí! 🚚 Hacemos entregas en Costa Rica; el costo depende de tu ubicación. Decinos qué producto te interesa y en qué cantón o distrito lo necesitás. Te confirmamos disponibilidad, plazo y total antes de pagar. WhatsApp: https://wa.me/50672800252
+
+PREGUNTA: 🛍️ ¿Qué productos tiene Netsu Store?
+RESPUESTA: ¡Tenemos portalatas Pura Vida, inflador digital, arrancador con compresor, Shoe Dryer y tabla de flexiones! 🔥 Decinos cuál querés conocer y te compartimos fotos, precios y detalles. WhatsApp: https://wa.me/50672800252
+
+8. TEXTOS COMERCIALES DE REFERENCIA (PUBLICACIONES YA REALIZADAS)
+FACEBOOK — TEXTO BASE:
 💪🔥 ¡ENTRENÁ EN CASA CON NETSU STORE!
 🏋️ TABLA DE FLEXIONES PLEGABLE MULTIFUNCIONAL
 ¿Querés darle variedad a tus rutinas sin llenar tu casa de equipo?
-✅ Guía de colores para variar la posición de las agarraderas.
-✅ Para rutinas enfocadas en pecho, hombros, espalda y tríceps.
+✅ Guía de colores para variar las posiciones de las agarraderas.
+✅ Rutinas enfocadas en pecho, hombros, espalda y tríceps.
 ✅ Diseño plegable y compacto.
-✅ Dos agarraderas desmontables, según fotografía del producto.
-💰 PRECIO DE LANZAMIENTO: ₡7.900 IVA incluido.
-🚚 Entregas en Costa Rica con costo adicional según destino.
-📲 Pedidos y consultas: https://wa.me/50672800252
-🌐 Conocé más de Netsu Store: https://netsu-store.juliomfutpo.workers.dev/
-❤️ Seguinos en Instagram para conocer más novedades.
-📋 Confirmamos disponibilidad antes de concretar.
-#NetsuStore #TablaDeFlexiones #PushUpBoard #EjercicioEnCasa #FitnessCostaRica
-
-INSTAGRAM — LISTO PARA COPIAR
-💪🔥 TU GYM TAMBIÉN PUEDE ESTAR EN CASA
-🏋️ Tabla de flexiones plegable multifuncional
-✅ Guía de colores
-✅ Posiciones para distintos ejercicios
-✅ Dos agarraderas desmontables
-✅ Compacta y fácil de guardar
-💰 ₡7.900 IVA incluido · Envío aparte
-📲 Escribinos por DM o WhatsApp 7280-0252.
-❤️ ¡Seguinos para más novedades de Netsu Store!
-#NetsuStore #TablaDeFlexiones #PushUpBoard #FitnessCR #EntrenamientoEnCasa
-
-MARKETPLACE — LISTO PARA COPIAR
-Título: Tabla de flexiones plegable multifuncional Push Up
-Precio: ₡7.900
-Estado: NUEVO solo si se verifica que es producto nuevo.
-Categoría: Deportes y actividades al aire libre / equipo de ejercicio u opción equivalente.
-Descripción:
-💪 Tabla de flexiones plegable Push Up Board.
-✅ Guía de colores con diferentes posiciones de agarre.
-✅ Ideal para entrenar pecho, hombros, tríceps y otras variaciones en casa.
-✅ Compacta y plegable; incluye dos agarraderas.
-💰 ₡7.900 IVA incluido.
-🚚 Envío adicional en Costa Rica.
-📲 https://wa.me/50672800252
-🌐 https://netsu-store.juliomfutpo.workers.dev/
-Consultá stock y tiempo de entrega antes de confirmar.
-
-META ADS — TARJETA 5 PENDIENTE DE CONFIGURAR
-Título: Tabla de flexiones plegable
-Descripción cortita con precio: 💪 Entrená en casa · ₡7.900
-Pregunta: ¿Tienen tabla de flexiones?
-Respuesta instantánea: incluir página web ESPECÍFICA del producto, publicación exacta de FB y de IG cuando existan; no inventar links ni reemplazarlos por enlaces de otro producto. Si hay límite de caracteres, avisar y ajustar sin borrar el procedimiento.
-WhatsApp Business atajo: /netsut04
-Mensaje base:
-¡Hola! 👋 Gracias por consultar por la tabla de flexiones de Netsu Store.
-💪 Precio ₡7.900 IVA incluido, envío aparte.
-🌐 Ficha web del producto: [PENDIENTE]
-📘 Facebook del producto: https://www.facebook.com/share/p/1Ewi6B46sL/
-📸 Instagram del producto: https://www.instagram.com/p/DfYoJT8lcRy/
-¿En qué zona la necesitás y cuántas unidades te interesan? Confirmamos disponibilidad y entrega.
-
-CONTROL DE PUBLICACIÓN
-Facebook publicación madre: https://www.facebook.com/share/p/1Ewi6B46sL/
-Instagram publicación individual: https://www.instagram.com/p/DfYoJT8lcRy/
-Marketplace publicación: PUBLICADA SEGÚN USUARIO 2026-11-05; ENLACE PENDIENTE DE COMPARTIR
-Ficha web específica: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html (HTML creado, despliegue sin verificar; galería JPG aún pendiente de subida)
-Carrito único: INTEGRADO en web. Meta Ads: PENDIENTE ACTIVACIÓN.
-Presupuesto campaña combinada cinco productos: USD 2/día TOTAL, no por tarjeta.
-Atención: la web general ya existe, pero no debe presentarse como URL de ficha T04.
-
-
-ACTUALIZACIÓN — 2026-11-05 — PUBLICACIÓN MADRE FB CONFIRMADA POR EL USUARIO
-Enlace exacto compartido: https://www.facebook.com/share/p/1Ewi6B46sL/
-Se recibió captura de la página oficial de Netsu Store. El enlace de publicación fue aportado por el usuario; Facebook puede bloquear la consulta pública automática, pero no cambiar ni reemplazar este enlace.
-FLUJO SIGUIENTE: Instagram carrusel 5 fotos → guardar link publicación IG → Marketplace con link FB madre → registrar Marketplace → ficha específica T04 en web → respuesta automática de anuncios Meta con tres links (FB, IG, ficha web).
-Pendiente confirmar que los cinco JPG estén realmente subidos a GitHub antes de enlazarlos desde la web.
-
-INSTAGRAM — TEXTO ACTUALIZADO
-💪🔥 ¡ENTRENÁ EN CASA CON NETSU STORE!
-🏋️ TABLA DE FLEXIONES PLEGABLE
-Dale variedad a tus rutinas con una tabla compacta y diferentes posiciones de agarre.
-✅ Posiciones por colores para pecho, hombros, espalda y tríceps.
-✅ Plegable y fácil de guardar.
 ✅ Incluye dos agarraderas desmontables.
-💰 ₡7.900 · IVA incluido.
-🚚 Envío aparte, según ubicación.
-📲 Consultá disponibilidad por DM o WhatsApp: 7280-0252.
-🔥 ¡Pedí la tuya!
-#NetsuStore #PushUpBoard #TablaDeFlexiones #FitnessCostaRica #EntrenamientoEnCasa
+💰 PRECIO: ₡7.900 IVA incluido. 🚚 Envío aparte.
+📲 Pedidos: https://wa.me/50672800252
+#NetsuStore #TablaDeFlexiones #PushUpBoard #FitnessCostaRica
 
-MARKETPLACE — TEXTO ACTUALIZADO
-Título: Tabla de flexiones plegable multifuncional | Push Up Board
+INSTAGRAM — TEXTO BASE:
+💪🔥 ¡TU GYM TAMBIÉN PUEDE ESTAR EN CASA!
+🏋️ Tabla de flexiones plegable con guía de colores y dos agarraderas desmontables.
+✅ Compacta y fácil de guardar.
+💰 ₡7.900 IVA incluido. 🚚 Envío adicional según ubicación.
+📲 Pedidos por DM o WhatsApp 7280-0252.
+#NetsuStore #TablaDeFlexiones #FitnessCR #EntrenamientoEnCasa
+
+MARKETPLACE — TEXTO BASE CON AMBOS ENLACES:
+Título: Tabla de flexiones plegable multifuncional — Push Up Board
 Precio: ₡7.900
-Descripción:
-💪 Tabla de flexiones plegable para entrenar en casa.
-✅ Guía de colores para distintas posiciones de agarre.
-✅ Ejercicios de pecho, hombros, espalda y tríceps.
-✅ Diseño compacto; incluye dos agarraderas desmontables.
-💰 ₡7.900 IVA incluido.
-🚚 Envíos en Costa Rica con costo adicional.
+💪🔥 Entrená en casa con diferentes posiciones de agarre.
+✅ Guía de colores; incluye tabla plegable y dos agarraderas desmontables.
+💰 ₡7.900 IVA incluido. Envío aparte.
 📲 WhatsApp: https://wa.me/50672800252
-📘 Mirá todas las fotos y detalles en nuestra publicación de Facebook:
-https://www.facebook.com/share/p/1Ewi6B46sL/
-Consultá disponibilidad y entrega antes de confirmar tu pedido.
-
-
-ACTUALIZACIÓN — 2026-11-05 — INSTAGRAM CONFIRMADO POR USUARIO
-Publicación Instagram T04: https://www.instagram.com/p/DfYoJT8lcRy/
-Facebook madre T04: https://www.facebook.com/share/p/1Ewi6B46sL/
-Para Marketplace incluir AMBOS enlaces reales: FB madre e Instagram de T04. No enlazar páginas generales como sustituto.
-
-MARKETPLACE — TEXTO FINAL CON FB E IG
-Título: Tabla de flexiones plegable multifuncional – Push Up Board
-Precio: ₡7.900
-Descripción:
-💪🔥 TABLA DE FLEXIONES PLEGABLE MULTIFUNCIONAL
-¡Entrená en casa con diferentes posiciones de agarre!
-✅ Guía de colores para trabajar pecho, hombros, espalda y tríceps.
-✅ Diseño plegable, compacto y fácil de guardar.
-✅ Incluye dos agarraderas desmontables.
-💰 ₡7.900 IVA incluido.
-🚚 Envíos disponibles en Costa Rica (costo adicional según zona).
-📲 Pedidos y disponibilidad por WhatsApp: https://wa.me/50672800252
-📘 Facebook — publicación madre: https://www.facebook.com/share/p/1Ewi6B46sL/
-📸 Instagram — fotos del producto: https://www.instagram.com/p/DfYoJT8lcRy/
-🔥 NETSU STORE
-Consultá disponibilidad y tiempo de entrega antes de confirmar tu compra.
-
-
-ACTUALIZACIÓN 2026-11-05 — PRODUCTO T04 EN MARKETPLACE
-Usuario confirmó explícitamente que T04 ya fue subido a Marketplace, sin proporcionar URL de publicación. NO marcar como pendiente de publicación; solo pendiente su enlace para el registro.
-Campaña Meta Ads combinada: ver planes/NETSU_CAMPAÑA_META_ADS_5_PRODUCTOS_NOV2026.txt. Preparada, no lanzada.
-
-
-ACTUALIZACIÓN — 2026-11-05 — FICHA WEB CREADA EN GITHUB
-Código creado: tabla-flexiones.html
-URL de la ficha prevista tras despliegue: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html
-Integrada en index.html, data/products.json y carrito compartido (NETSU-T04, precio ₡7.900 IVA incluido).
-GALERÍA PREPARADA (FOTOS AÚN NO SUBIDAS A GITHUB):
-assets/t04-tabla-flexiones/01_portada.jpg
-assets/t04-tabla-flexiones/02_rutinas_musculares.jpg
-assets/t04-tabla-flexiones/03_guia_de_colores.jpg
-assets/t04-tabla-flexiones/04_plegable_portatil.jpg
-assets/t04-tabla-flexiones/05_que_incluye.jpg
-Estos cinco nombres coinciden con el ZIP preparado en el chat. Página usa respaldo a FB si las fotos no están en GitHub. La publicación de Marketplace fue confirmada por usuario; URL todavía pendiente.
-No afirmar que la URL ya fue comprobada en Cloudflare: despliegue público no verificable desde herramientas.
-
-
-ACTUALIZACIÓN DE ENLACES MAESTROS T04 — 2026-11-06
-Facebook madre: https://www.facebook.com/share/p/1Ewi6B46sL/
-Instagram individual: https://www.instagram.com/p/DfYoJT8lcRy/
-Ficha propia: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html (creada en código, despliegue y carga de las cinco fotos sin confirmar)
-WhatsApp: https://wa.me/50672800252
-Marketplace: publicado, enlace individual pendiente de recibir. Las respuestas de Meta/WhatsApp deben compartir ambos enlaces sociales; añadir ficha una vez verificada. No repetir/renombrar imágenes ni inventar links.
-
-
-RESPUESTAS META ADS — T04 — 2026-11-06 (preparadas para pegar; NO activadas desde el chat)
-PREGUNTA: 💪 ¿Cuánto cuesta la tabla de flexiones?
-RESPUESTA:
-¡Hola! 👋💪 Gracias por consultar en Netsu Store.
-Nuestra tabla de flexiones plegable cuesta ₡7.900, IVA incluido. El envío se cobra aparte.
-Incluye una tabla plegable y dos agarraderas desmontables, con guía de colores para diferentes ejercicios.
-🌐 Web del producto: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html
-📘 Facebook madre: https://www.facebook.com/share/p/1Ewi6B46sL/
+📘 Facebook: https://www.facebook.com/share/p/1Ewi6B46sL/
 📸 Instagram: https://www.instagram.com/p/DfYoJT8lcRy/
-📦 ¿En qué zona necesitás la entrega? Te confirmamos disponibilidad y costo de envío.
-ADVERTENCIA: ficha web creada en GitHub, pero despliegue público sin verificar y galería JPG sin carga confirmada. Mientras tanto, FB e IG contienen las fotos publicadas. Nunca sustituir URL de ficha específica con web general silenciosamente.
+Consultá stock, entrega y características antes de confirmar tu pedido.
 
-PREGUNTA GENERAL ADICIONAL: 🚚 ¿Hacen envíos y cómo puedo comprar?
-RESPUESTA:
-¡Sí! 🚚 Hacemos entregas en Costa Rica; el costo depende de la ubicación. Para ayudarte, decinos cuál producto te interesa y en qué cantón o distrito lo necesitás. Te confirmamos disponibilidad, plazo y total antes de pagar. 📲 WhatsApp: https://wa.me/50672800252
-
-PREGUNTA GENERAL ADICIONAL: 🛍️ ¿Qué productos tiene Netsu Store?
-RESPUESTA:
-¡Tenemos portalatas Pura Vida, inflador digital, arrancador con compresor, Shoe Dryer y tabla de flexiones! 🔥 Decinos cuál querés conocer y te compartimos las fotos y precios específicos. 📲 https://wa.me/50672800252
-
-Nota: si Meta limita la longitud o cantidad de respuestas automáticas, no asegurar que todos los textos se configuran íntegros. Mantener los tres enlaces completos T04 en respuesta rápida de WhatsApp Business /netsut04 como respaldo.
+9. PRÓXIMO PASO
+Subir las cinco fotos T04 a GitHub, comprobar la web, verificar los precios aún propuestos de T02/T03 y continuar la configuración Meta Ads. Enlace Marketplace T04 no es requisito para lanzar las cinco tarjetas, pero guardar cuando el usuario lo comparta.
