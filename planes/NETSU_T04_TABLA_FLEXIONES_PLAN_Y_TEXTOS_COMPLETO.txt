@@ -73,8 +73,14 @@ ATAJO WHATSAPP BUSINESS: /netsut04
 ¿En qué zona necesitás la entrega y cuántas unidades te interesan? Confirmamos disponibilidad, precio final y entrega.
 
 7. OTRAS DOS PREGUNTAS SUGERIDAS DE META ADS
-PREGUNTA: 🚚 ¿Hacen envíos y cómo puedo comprar?
-RESPUESTA: ¡Sí! 🚚 Hacemos entregas en Costa Rica; el costo depende de tu ubicación. Decinos qué producto te interesa y en qué cantón o distrito lo necesitás. Te confirmamos disponibilidad, plazo y total antes de pagar. WhatsApp: https://wa.me/50672800252
+PREGUNTA 6: 🚚 ¿Hacen envíos y cómo puedo comprar?
+RESPUESTA CORTA META ADS (266 UTF-16; web y perfiles generales):
+¡Sí! 🚚 Enviamos en Costa Rica (costo aparte).
+🌐 https://netsu-store.juliomfutpo.workers.dev/
+📘 https://www.facebook.com/profile.php?id=61579101474528
+📸 https://www.instagram.com/netsustorecr/
+Decinos el producto y tu zona; te pasamos sus fotos, precio y entrega.
+Cuando llegue el cliente a WhatsApp, usar /netsut04 para enviar la WEB, FB e IG ESPECÍFICOS de la tabla de flexiones.
 
 PREGUNTA: 🛍️ ¿Qué productos tiene Netsu Store?
 RESPUESTA: ¡Tenemos portalatas Pura Vida, inflador digital, arrancador con compresor, Shoe Dryer y tabla de flexiones! 🔥 Decinos cuál querés conocer y te compartimos fotos, precios y detalles. WhatsApp: https://wa.me/50672800252
