@@ -95,3 +95,8 @@ COMPROBACIONES ANTES DE ACTIVAR
 - Ubicaciones compatibles y previsualizaciones, incluidas IG/FB.
 - No duplicar campaña previa ni activar sin revisar.
 - Confirmar 2 precios propuestos T02/T03, stock, entrega y política de venta antes de invertir.
+
+
+ACTUALIZACIÓN 2026-11-05 — CÓDIGO WEB T04
+Nueva ficha preparada en GitHub: tabla-flexiones.html, URL de destino prevista https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html. Fotos T04 pendientes de cargar a assets/t04-tabla-flexiones/. No considerar ficha con imágenes completas hasta que estén subidas.
+También se corrigió miniatura de portada en ficha de Shoe Dryer. Meta Ads no lanzado; mantener 1 carrusel con 5 tarjetas y USD 2/día total, CTA WhatsApp.
