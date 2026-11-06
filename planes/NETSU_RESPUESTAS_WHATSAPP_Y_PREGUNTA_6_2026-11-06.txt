@@ -1,0 +1,83 @@
+NETSU STORE — RESPUESTAS DE FACEBOOK/INSTAGRAM A WHATSAPP
+MAESTRO OPERATIVO ACTUALIZADO 2026-11-06
+
+OBJETIVO: 1 sola campaña Meta Ads, 5 tarjetas, $2 USD/día TOTAL, mensajes a WhatsApp.
+No mezclar campañas ni presupuestos de DevOp. No afirmar que estos mensajes ya estén configurados/activos en Meta o WhatsApp.
+
+PREGUNTA 6 EN META ADS:
+🚚 ¿Hacen envíos y cómo puedo comprar?
+RESPUESTA GENERAL PARA META (LÍMITE OPERATIVO 300 CARACTERES; COMPROBAR CONTADOR DE META):
+¡Sí! 🚚 Enviamos en Costa Rica (costo aparte).
+🌐 https://netsu-store.juliomfutpo.workers.dev/
+📘 https://www.facebook.com/profile.php?id=61579101474528
+📸 https://www.instagram.com/netsustorecr/
+Decinos el producto y tu zona; te pasamos sus fotos, precio y entrega.
+Conteo: 262 puntos de código Unicode, 266 unidades UTF-16. Tiene enlaces generales de la página y redes, NO son enlaces de productos individuales.
+
+FLUJO DE ATENCIÓN EN WHATSAPP
+1. El cliente llega al chat desde Meta Ads y dice cuál de los cinco productos le interesa.
+2. Seleccionamos el atajo del producto y enviamos precios + 3 enlaces específicos: ficha web + Facebook madre + Instagram individual (cuando esté confirmado).
+3. Preguntamos zona/municipio para confirmar disponibilidad, envío, tiempo de entrega, precio final y pago.
+4. NO meter enlaces de productos ajenos; NO poner en las respuestas automáticas de Meta frases operativas como 'pendiente de verificar'.
+5. Estos atajos son MENSAJES GUARDADOS PARA PEGAR; no están configurados directamente en WhatsApp Business.
+
+P01 — PORTALATAS
+ATAJO WHATSAPP BUSINESS: /netsup01
+🥤 Portalatas Pura Vida desde ₡7.000; personalizados desde ₡9.000. IVA incluido, envío aparte.
+🌐 https://netsu-store.juliomfutpo.workers.dev/#portalatas
+📘 https://www.facebook.com/permalink.php?story_fbid=pfbid0UAnPe7jkiqvJr92LtXoaWRU3xJVVm9NpQUyMc6tpwFkJNXGBdSjaXxtGucRqwz7Sl&id=61579101474528
+📸 https://www.instagram.com/p/Devyq-cnJls/
+¿Cuál color y cantidad te interesan?
+LONGITUD MENSAJE: 377 caracteres UTF-16.
+
+T01 — INFLADOR DIGITAL
+ATAJO WHATSAPP BUSINESS: /netsut01
+🛞 Inflador digital ₡14.900 IVA incluido; envío aparte.
+🌐 https://netsu-store.juliomfutpo.workers.dev/inflador-digital.html
+📘 https://www.facebook.com/permalink.php?story_fbid=pfbid02YUm7N9x1T8wqjQtCXN769mCXtBSk4aMFTBh6gKtHHqjLaXz72a5FDQLPJyeRpbT1l&id=61579101474528
+📸 Instagram específico T01: NO ENVIAR AÚN (enlace del maestro coincide con portalatas P01 y falta verificar).
+¿En qué zona lo necesitás?
+LONGITUD MENSAJE: 406 caracteres UTF-16.
+
+T02 — ARRANCADOR CON COMPRESOR
+ATAJO WHATSAPP BUSINESS: /netsut02
+🚗 Arrancador con compresor ₡32.900 IVA incluido, envío aparte. Confirmamos compatibilidad y stock.
+🌐 https://netsu-store.juliomfutpo.workers.dev/arrancador-compresor.html
+📘 https://www.facebook.com/share/p/1FUPd8KAHE/
+📸 https://www.instagram.com/p/DfRQDMojjYU/
+¿Para qué vehículo y zona?
+LONGITUD MENSAJE: 291 caracteres UTF-16.
+
+T03 — SHOE DRYER
+ATAJO WHATSAPP BUSINESS: /netsut03
+👟 Shoe Dryer ₡9.900 IVA incluido; envío aparte. Consultá disponibilidad.
+🌐 https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html
+📘 https://www.facebook.com/share/p/1QKFXwLFPv/
+📸 https://www.instagram.com/p/Dfapu1IDpmH/
+¿En qué zona necesitás entrega?
+LONGITUD MENSAJE: 260 caracteres UTF-16.
+
+T04 — TABLA DE FLEXIONES
+ATAJO WHATSAPP BUSINESS: /netsut04
+💪 Tabla de flexiones ₡7.900 IVA incluido; envío aparte.
+🌐 https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html
+📘 https://www.facebook.com/share/p/1Ewi6B46sL/
+📸 https://www.instagram.com/p/DfYoJT8lcRy/
+¿Cuál es tu zona de entrega?
+LONGITUD MENSAJE: 245 caracteres UTF-16.
+
+ESTADO DE IMÁGENES WEB — VERIFICADO EN ÁRBOL DE GITHUB main EL 2026-11-06
+P01: 7 imágenes WebP (incluye portada y tabla de precios) — EXISTEN.
+T01: 6 imágenes PNG — EXISTEN.
+T02: 5 imágenes PNG — EXISTEN.
+T03: 5 imágenes PNG — EXISTEN.
+T04: CERO imágenes JPG, solo README.md. FALTAN 5: 01_portada.jpg, 02_rutinas_musculares.jpg, 03_guia_de_colores.jpg, 04_plegable_portatil.jpg, 05_que_incluye.jpg. Subir a assets/t04-tabla-flexiones/.
+Archivos HTML: index.html, inflador-digital.html, arrancador-compresor.html, shoe-dryer.html y tabla-flexiones.html — TODOS EXISTEN EN GITHUB.
+Servidor público Cloudflare workers.dev: no se pudo verificar accesibilidad desde herramientas; no declarar el despliegue validado.
+
+PENDIENTES EXACTOS ANTES DE LANZAR
+- Subir cinco fotos T04 a la carpeta GitHub y revisar ficha web y galería.
+- Confirmar enlace Instagram exclusivo T01 (el registro previo está duplicado con P01); hasta entonces la respuesta de T01 debe contener web+FB y pedir detalles por WA.
+- Confirmar precios T02/T03, disponibilidad, y compatibilidad/contenido exacto con proveedor.
+- Verificar que las preguntas de Meta y presupuestos estén correctos; no cambiar $2 diario TOTAL sin autorización.
+- Actualizar el estado del presente TXT cuando se resuelvan pendientes.
