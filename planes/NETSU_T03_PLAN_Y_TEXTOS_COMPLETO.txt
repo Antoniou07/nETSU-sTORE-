@@ -143,3 +143,7 @@ ACTUALIZACIÓN WEB 2026-11-04 (CORRECCIÓN)
 Se movió el Shoe Dryer a la sección destacada de index.html, antes del inflador, con precio, enlace a ficha y portada a /assets/t03-shoe-dryer/01_portada.png. Ficha shoe-dryer.html modificada para galería automática de 5 fotos con miniaturas y respaldo a Facebook si no existen las fotos.
 COMPLETADO: cinco imágenes originales YA SUBIDAS Y ORGANIZADAS en assets/t03-shoe-dryer/ como 01_portada.png, 02_producto_en_uso.png, 03_portabilidad.png, 04_dias_lluviosos.png y 05_beneficios.png. No volver a pedir al usuario fotos. La historia 1080x1920 es recurso de redes sociales, no necesaria para web.
 No duplicar imágenes ni pedir que el usuario las genere de nuevo. Una vez subidas, la página las reconocerá por ruta sin editar código. Verificar despliegue de Cloudflare: no se pudo acceder a workers.dev desde las herramientas; no afirmar que los commits ya están publicados allí.
+
+
+ACTUALIZACIÓN — 2026-11-05 — FICHA SHOE DRYER
+Corrección aplicada en shoe-dryer.html: miniatura de portada apuntaba por error a 01_portada.jpg, pero el archivo real está en assets/t03-shoe-dryer/01_portada.png; ajustado para mostrar la imagen existente. Mantener precios y publicaciones originales, no generar/copiar fotos nuevas. Instagram T03 aún no tiene enlace registrado en TXT.
