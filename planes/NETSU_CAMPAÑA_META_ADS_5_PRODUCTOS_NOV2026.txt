@@ -101,13 +101,14 @@ RESPUESTA: ¡Hola! 👟 Shoe Dryer ₡9.900 IVA incluido, envío aparte; precio 
 ¿En qué zona lo necesitás?
 
 PREGUNTA 5: 💪 ¿Cuánto cuesta la tabla de flexiones?
-RESPUESTA: ¡Hola! 💪 Tabla plegable de flexiones ₡7.900 IVA incluido, envío aparte.
-Incluye una tabla con guía de colores y dos agarraderas desmontables.
+RESPUESTA CORTA META ADS (máximo 300 caracteres):
+💪 Tabla de flexiones: ₡7.900 IVA incluido. Envío aparte.
 🌐 https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html
 📘 https://www.facebook.com/share/p/1Ewi6B46sL/
 📸 https://www.instagram.com/p/DfYoJT8lcRy/
-¿En qué zona necesitás la entrega? Confirmamos disponibilidad y costo.
-Nota T04: web tiene ruta específica creada; verificar despliegue y carga de fotos antes de anunciarla como galería completa.
+📍 ¿En qué zona sería la entrega?
+Conteo Unicode: 246; verificar el contador exacto de Meta según emojis.
+Nota: ficha T04 programada, fotos aún no cargadas. Respuesta rápida WhatsApp /netsut04 conserva el texto largo.
 
 5. PREGUNTAS GENERALES ADICIONALES (SOLO SI META PERMITE MÁS)
 PREGUNTA: 🚚 ¿Hacen envíos y cómo puedo comprar?
