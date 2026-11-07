@@ -11,6 +11,8 @@ const chips=Array.from(document.querySelectorAll('[data-filtro-categoria]'));
 const details=document.getElementById('detalle-productos');
 if(!grid||!input||!sort||!count||!empty||!details)return;
 const items=Array.from(grid.querySelectorAll('[data-producto-id]'));
+const allChip=chips.find(chip=>chip.dataset.filtroCategoria==='todos');
+if(allChip)allChip.textContent='Todos ('+items.length+')';
 const normalize=s=>String(s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().trim();
 const categories=['todos','personalizados','auto','hogar','fitness'];
 const sorts=['destacados','precio-asc','precio-desc','nombre'];
@@ -45,7 +47,7 @@ input.addEventListener('input',update);
 sort.addEventListener('change',()=>{order=sort.value;update()});
 reset.addEventListener('click',()=>{category='todos';order='destacados';input.value='';sort.value=order;update();input.focus()});
 function revealHash(){
- const id=decodeURIComponent(location.hash.slice(1));
+ let id;try{id=decodeURIComponent(location.hash.slice(1))}catch(e){return}
  if(!id||!details.contains(document.getElementById(id)))return;
  details.open=true;
  requestAnimationFrame(()=>{const node=document.getElementById(id);if(node)node.scrollIntoView({block:'start'})});
