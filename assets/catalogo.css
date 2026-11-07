@@ -28,6 +28,7 @@
 .storefront-product:hover{transform:translateY(-3px);box-shadow:0 15px 36px #142b4920}
 .storefront-product[hidden],.storefront-empty[hidden]{display:none!important}
 .storefront-picture{display:block;background:radial-gradient(circle at 45% 34%,#527997,#172b45 85%);aspect-ratio:1.23;position:relative;overflow:hidden}
+.storefront-picture img[hidden]{display:none!important}
 .storefront-picture img{display:block;width:100%;height:100%;object-fit:contain;padding:10px;transition:transform .25s ease}
 .storefront-product:hover img{transform:scale(1.035)}
 .storefront-picture-fallback{display:flex;align-items:center;justify-content:center;height:100%;font-size:64px;color:white}
