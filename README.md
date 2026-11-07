@@ -1,12 +1,18 @@
-# Netsu Store
+# Netsu Store — Costa Rica
 
-Tienda web de Netsu Store, Costa Rica. Código fuente de la primera versión en `index.html`.
+Tienda web estática con cinco productos, fichas individuales, portadas, galerías y carrito compartido con consulta final por WhatsApp.
 
-## Estado
-- Formulario de consulta y cálculo de precios por volumen en la web inicial.
-- Datos oficiales del producto en `data/products.json`.
-- Seis creativos aprobados preparados en el paquete local, **pendientes de subir a `assets/` en este repositorio**.
-- **No publicada todavía**; no hay inventario sincronizado, Pixel activo ni catálogo de Meta conectado.
+## Productos
+- P01 Portalatas Pura Vida — `index.html#portalatas` — 7 WebP en `assets/p01-portalatas/`
+- T01 Inflador digital — `inflador-digital.html` — 6 PNG en `assets/t01-inflador/`
+- T02 Arrancador con compresor — `arrancador-compresor.html` — 5 PNG en `assets/t02-arrancador/`
+- T03 Shoe Dryer — `shoe-dryer.html` — 5 PNG en `assets/t03-shoe-dryer/`
+- T04 Tabla de flexiones — `tabla-flexiones.html` — 5 PNG en `assets/t04-tabla-flexiones/`
 
-## Publicación
-Se requiere subir las imágenes de `assets/` y activar un alojamiento compatible con uso comercial. No introducir claves ni datos privados en el repositorio público.
+Las portadas de los cinco productos se muestran desde `index.html`. Las fotos T04 se organizaron sin duplicarlas el 6 de noviembre de 2026; el código y `data/products.json` usan rutas PNG definitivas.
+
+WhatsApp: +506 7280-0252. El sitio no procesa pagos automáticamente: confirmar precio, stock, envío y entrega antes de cerrar la compra.
+
+Plan Meta Ads en `planes/`: carrusel de cinco productos, USD 2/día TOTAL (planificado, no activado desde GitHub). El Pixel y cobro con tarjeta aún no constan activos.
+
+URL prevista de Cloudflare: https://netsu-store.juliomfutpo.workers.dev/ — archivos y rutas verificados en GitHub; confirmar en navegador la versión publicada porque no fue posible acceder al dominio desde herramientas externas.
