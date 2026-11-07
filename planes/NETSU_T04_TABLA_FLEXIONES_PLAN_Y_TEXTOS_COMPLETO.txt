@@ -9,7 +9,7 @@ IMPORTANTE: Este es el estado ACTUAL. Se corrigieron los campos que antes figura
 📸 INSTAGRAM T04: https://www.instagram.com/p/DfYoJT8lcRy/
 📲 WHATSAPP NETSU STORE: https://wa.me/50672800252
 🛍️ MARKETPLACE T04: PUBLICADO SEGÚN USUARIO; URL INDIVIDUAL AÚN NO COMPARTIDA.
-ESTADO DE LA WEB: archivo tabla-flexiones.html creado y conectado desde index.html, JSON de productos y carrito; despliegue público no verificado y las cinco fotos NO constan aún subidas a GitHub. La URL de arriba es la ruta específica PREPARADA, NO una ficha completamente verificada.
+ESTADO DE LA WEB: archivo tabla-flexiones.html creado y conectado desde index.html, JSON de productos y carrito; las cinco fotos originales ya constan en GitHub, organizadas como PNG y enlazadas en la web; despliegue público Cloudflare todavía sin verificar. La URL corresponde a la ficha específica; su despliegue público todavía requiere comprobación en navegador.
 ESTADO META ADS: respuestas preparadas en este TXT; campaña todavía no activada desde ChatGPT.
 
 2. PRODUCTO, PRECIOS Y MARGEN
@@ -31,23 +31,23 @@ Fotografías de redes: cinco artes cuadrados independientes, en orden portada, r
 
 4. FOTOGRAFÍAS Y WEB — RUTAS EXACTAS
 Carpeta existente en GitHub: assets/t04-tabla-flexiones/
-Archivos aún PENDIENTES DE SUBIR A ESA CARPETA:
-  01_portada.jpg
-  02_rutinas_musculares.jpg
-  03_guia_de_colores.jpg
-  04_plegable_portatil.jpg
-  05_que_incluye.jpg
+Cinco fotos REALES YA SUBIDAS A GITHUB Y NORMALIZADAS (sin copias redundantes):
+  01_portada.png
+  02_rutinas_musculares.png
+  03_guia_de_colores.png
+  04_plegable_portatil.png
+  05_que_incluye.png
 Ficha específica: tabla-flexiones.html (ya creada en GitHub).
 Carrito de tienda: T04 integrado como NETSU-T04, ₡7.900.
 Home: T04 integrada en index.html.
 Datos: T04 integrada en data/products.json.
-PASO PENDIENTE: subir cinco JPG reales y comprobar que el despliegue de Cloudflare muestre portada y galería. No afirmar que las fotos están cargadas solo porque las rutas figuran aquí.
+COMPLETADO EN GITHUB: cinco PNG guardados y referencias actualizadas en index.html, tabla-flexiones.html y data/products.json. PENDIENTE: verificar despliegue público Cloudflare en navegador.
 
 5. META ADS — TARJETA 5 DEL CARRUSEL GENERAL
 Campaña: NETSU | Mensajes WhatsApp | 5 Productos | Nov 2026
 Configuración: UN anuncio carrusel con 5 tarjetas (una por producto), UN conjunto, presupuesto TOTAL USD 2/día, botón Enviar mensaje por WhatsApp.
 Tarjeta 5: Tabla de flexiones | Descripción: ₡7.900 · IVA incluido
-Portada para tarjeta: 01_portada.jpg (aprobada; pendiente subida a GitHub para uso web).
+Portada para tarjeta: 01_portada.png (aprobada y existente en GitHub).
 No subir cinco imágenes T04 a las cinco tarjetas: cada tarjeta corresponde a un producto distinto.
 
 6. META ADS — PREGUNTA Y RESPUESTA DE LA TABLA (LISTAS PARA COPIAR)
@@ -118,4 +118,6 @@ Precio: ₡7.900
 Consultá stock, entrega y características antes de confirmar tu pedido.
 
 9. PRÓXIMO PASO
-Subir las cinco fotos T04 a GitHub, comprobar la web, verificar los precios aún propuestos de T02/T03 y continuar la configuración Meta Ads. Enlace Marketplace T04 no es requisito para lanzar las cinco tarjetas, pero guardar cuando el usuario lo comparta.
+Comprobar despliegue web y galería, verificar precios propuestos T02/T03 y continuar la configuración Meta Ads. Enlace Marketplace T04 no es requisito para lanzar las cinco tarjetas, pero guardar cuando el usuario lo comparta.
+
+VERIFICACIÓN 2026-11-06: Las cinco fotos originales T04 se organizaron en assets/t04-tabla-flexiones/ como PNG numerados con los mismos blobs de Git (sin duplicados). Portada, galería, catálogo y vistas previas enlazadas. La versión pública en Cloudflare sigue pendiente de verificar externamente.
