@@ -50,6 +50,9 @@
 .storefront-chat:hover{background:#d9efe2}
 .storefront-empty{text-align:center;background:white;border:1px dashed #b4c9d9;border-radius:16px;padding:35px 18px;color:#60758a;margin-top:14px}
 .storefront-empty strong{display:block;font-size:21px;color:#193553;margin-bottom:8px}
+.storefront-empty p{margin:0 0 15px}
+.storefront-empty-reset{background:#173657;color:#fff;border-radius:10px;padding:11px 17px;min-height:44px;font-size:14px;font-weight:800}
+.storefront-empty-reset:hover{background:#2a587c}
 .storefront-note{font-size:12px;color:#65758a;margin:14px 0 0}
 .storefront-details{max-width:1160px;margin:25px auto 38px;padding:0 10px;border-radius:16px}
 .storefront-details summary{cursor:pointer;padding:18px 20px;border-radius:15px;background:#e5eef7;color:#183858;font-weight:900;outline-offset:3px;list-style:none}
