@@ -71,12 +71,12 @@ P01: 7 imágenes WebP (incluye portada y tabla de precios) — EXISTEN.
 T01: 6 imágenes PNG — EXISTEN.
 T02: 5 imágenes PNG — EXISTEN.
 T03: 5 imágenes PNG — EXISTEN.
-T04: CERO imágenes JPG, solo README.md. FALTAN 5: 01_portada.jpg, 02_rutinas_musculares.jpg, 03_guia_de_colores.jpg, 04_plegable_portatil.jpg, 05_que_incluye.jpg. Subir a assets/t04-tabla-flexiones/.
+T04: CINCO imágenes PNG ya SUBIDAS y enlazadas en GitHub: 01_portada.png, 02_rutinas_musculares.png, 03_guia_de_colores.png, 04_plegable_portatil.png, 05_que_incluye.png en assets/t04-tabla-flexiones/.
 Archivos HTML: index.html, inflador-digital.html, arrancador-compresor.html, shoe-dryer.html y tabla-flexiones.html — TODOS EXISTEN EN GITHUB.
 Servidor público Cloudflare workers.dev: no se pudo verificar accesibilidad desde herramientas; no declarar el despliegue validado.
 
 PENDIENTES EXACTOS ANTES DE LANZAR
-- Subir cinco fotos T04 a la carpeta GitHub y revisar ficha web y galería.
+- Fotos T04 en GitHub: COMPLETADO. Comprobar galería y ficha web ya desplegadas por Cloudflare.
 - Confirmar enlace Instagram exclusivo T01 (el registro previo está duplicado con P01); hasta entonces la respuesta de T01 debe contener web+FB y pedir detalles por WA.
 - Confirmar precios T02/T03, disponibilidad, y compatibilidad/contenido exacto con proveedor.
 - Verificar que las preguntas de Meta y presupuestos estén correctos; no cambiar $2 diario TOTAL sin autorización.
