@@ -60,13 +60,13 @@ Ficha web: https://netsu-store.juliomfutpo.workers.dev/shoe-dryer.html
 Estado: Web creada, galería de 5 fotos cargadas en GitHub; despliegue público aún por comprobar.
 
 TARJETA 5 — TABLA DE FLEXIONES [NETSU-T04]
-Imagen: assets/t04-tabla-flexiones/01_portada.jpg [ARCHIVO AÚN SIN SUBIR A GITHUB]
+Imagen: assets/t04-tabla-flexiones/01_portada.png [PORTADA EXISTE EN GITHUB]
 Título: Tabla de flexiones
 Descripción: ₡7.900 · IVA incluido
 Facebook madre: https://www.facebook.com/share/p/1Ewi6B46sL/
 Instagram: https://www.instagram.com/p/DfYoJT8lcRy/
 Ficha web: https://netsu-store.juliomfutpo.workers.dev/tabla-flexiones.html
-Estado: código y carrito creados en GitHub; subir las cinco fotos JPG a assets/t04-tabla-flexiones/, comprobar despliegue antes de presentar la galería como terminada. Marketplace T04 publicado según usuario, URL individual no recibida.
+Estado: código, carrito y cinco imágenes PNG cargadas y vinculadas en GitHub; verificar despliegue público Cloudflare. Marketplace T04 publicado según usuario, URL individual no recibida.
 
 4. MENSAJES PARA WHATSAPP — PREGUNTAS DE PRODUCTO
 Saludo:
@@ -130,7 +130,9 @@ Si Meta solo admite tres preguntas, agrupar por PERSONALIZADOS, TECNOLOGÍA/AUTO
 [ ] Cinco portadas correctas, logo original de llama, precios y orden de tarjetas.
 [ ] Confirmar precio de venta T02/T03, existencias, entrega y condiciones.
 [ ] Confirmar el enlace Instagram específico del inflador T01, actualmente duplicado con P01 en registro anterior.
-[ ] Verificar ficha T04 y fotos (aún no cargadas a GitHub, conforme última inspección).
+[x] Cinco fotos T04 PNG cargadas y enlazadas. [ ] Verificar despliegue Cloudflare.
 [ ] Revisar vista previa del carrusel y que la llamada a la acción abra WhatsApp.
 [ ] Presupuesto TOTAL USD 2/día; si Meta exige otro mínimo, consultar antes de activar.
 [ ] No duplicar campaña anterior ni afirmar que los mensajes ya están activos.
+
+ACTUALIZACIÓN 2026-11-06: Portadas de cinco productos y vistas previas OG de las fichas configuradas con imágenes PNG/WebP reales. T04 galería con cinco PNG; Cloudflare público por verificar.
