@@ -81,3 +81,14 @@ PENDIENTES EXACTOS ANTES DE LANZAR
 - Confirmar precios T02/T03, disponibilidad, y compatibilidad/contenido exacto con proveedor.
 - Verificar que las preguntas de Meta y presupuestos estén correctos; no cambiar $2 diario TOTAL sin autorización.
 - Actualizar el estado del presente TXT cuando se resuelvan pendientes.
+
+
+POLÍTICA OPERATIVA DE DELIVERY — ACTUALIZACIÓN 2026-11-07
+- La tienda ahora incluye selector de delivery en el carrito, campo opcional de provincia/cantón/distrito y subtotal de productos separado del envío.
+- Meta Ads / WhatsApp: NO ofrecer tarifa plana ni envío gratis sin cotización real; calcular costo y plazo según zona, peso, proveedor y posibilidad de retiro o recolección.
+- Si se usa Correos de Costa Rica EMS Nacional, confirmar tarifa actual del servicio y 13% IVA; la recolección a domicilio puede tener costo extra. No usar precio de sucursal como si incluyera retiro.
+- En WhatsApp confirmar subtotal, transporte, costo total, stock y fecha antes de solicitar pago; la tienda NO realiza cargos automáticos.
+- Los precios publicados de P01, T01, T02, T03 y T04 no se modificaron por esta actualización.
+RESPUESTA DE DELIVERY (dentro de 300 caracteres UTF-16, 249 caracteres):
+¡Sí! 🚚 Tenemos delivery en Costa Rica. El costo depende de tu zona y del paquete. Decinos cuál producto querés y tu provincia, cantón y distrito. Te confirmamos el precio total y plazo antes de pagar.
+🌐 https://netsu-store.juliomfutpo.workers.dev/
