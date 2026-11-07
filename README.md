@@ -16,3 +16,17 @@ WhatsApp: +506 7280-0252. El sitio no procesa pagos automáticamente: confirmar 
 Plan Meta Ads en `planes/`: carrusel de cinco productos, USD 2/día TOTAL (planificado, no activado desde GitHub). El Pixel y cobro con tarjeta aún no constan activos.
 
 URL prevista de Cloudflare: https://netsu-store.juliomfutpo.workers.dev/ — archivos y rutas verificados en GitHub; confirmar en navegador la versión publicada porque no fue posible acceder al dominio desde herramientas externas.
+
+## Catálogo y navegación — 2026-11-06
+
+- `index.html#catalogo` es la nueva vista principal, con cinco tarjetas y fotografías reales.
+- Buscador sin dependencias: nombres, palabras clave y descripciones; ignora tildes y mayúsculas.
+- Categorías: Todos, Personalizados, Tecnología y auto, Hogar y Fitness.
+- Orden: Destacados, precio ascendente, precio descendente, nombre A–Z.
+- Los filtros admiten enlaces compartibles (`?buscar=...`, `?categoria=auto`, `?orden=precio-asc`) y un estado vacío con botón para limpiar.
+- Las fichas largas y el cotizador de portalatas están dentro de la sección desplegable `#detalle-productos`, pero los enlaces directos `/#portalatas` y `/#carrito` los abren automáticamente.
+- Los botones de producto conducen a su ficha particular y a WhatsApp. La portada mantiene el acceso al carrito.
+- Recursos de interfaz: `assets/catalogo.css` y `assets/catalogo.js`. No requieren bibliotecas ni servicios externos.
+- Para agregar un producto nuevo, actualizar el catálogo de `index.html` (`data-producto-id`, `data-categoria`, `data-orden`, `data-precio`, `data-nombre` y `data-buscar`), su ficha, las imágenes de `assets/` y `data/products.json`. La etiqueta «Todos» se ajusta automáticamente al número de tarjetas.
+- **Pendiente de verificación en navegador real:** diseño móvil, búsqueda, cambios de categoría, orden, enlaces directos, carrito y galería. Confirmar un despliegue correcto en Cloudflare antes de afirmar funcionamiento público.
+- Se quitó la URL de Instagram atribuida incorrectamente al inflador T01 porque apuntaba a la publicación de portalatas P01. Registrar enlace real específico del inflador cuando el usuario lo aporte.
