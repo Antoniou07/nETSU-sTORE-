@@ -30,3 +30,10 @@ URL prevista de Cloudflare: https://netsu-store.juliomfutpo.workers.dev/ — arc
 - Para agregar un producto nuevo, actualizar el catálogo de `index.html` (`data-producto-id`, `data-categoria`, `data-orden`, `data-precio`, `data-nombre` y `data-buscar`), su ficha, las imágenes de `assets/` y `data/products.json`. La etiqueta «Todos» se ajusta automáticamente al número de tarjetas.
 - **Pendiente de verificación en navegador real:** diseño móvil, búsqueda, cambios de categoría, orden, enlaces directos, carrito y galería. Confirmar un despliegue correcto en Cloudflare antes de afirmar funcionamiento público.
 - Se quitó la URL de Instagram atribuida incorrectamente al inflador T01 porque apuntaba a la publicación de portalatas P01. Registrar enlace real específico del inflador cuando el usuario lo aporte.
+
+## Delivery — 2026-11-07
+- El carrito ahora pregunta si el cliente quiere delivery a domicilio (para cotizar) u otra opción coordinada.
+- El cliente puede indicar provincia, cantón y distrito. Estos datos se incluyen en el mensaje de WhatsApp que genera el carrito.
+- El subtotal mostrado corresponde solo a productos, sin envío; no se anuncian cobros automáticos ni tarifas fijas sin comprobar con mensajería/proveedor.
+- Se confirmó que las rutas y el JavaScript del carrito se mantienen en GitHub; la publicación externa de Cloudflare y la experiencia en celular necesitan validación visual.
+- Una posible reducción de precios o promoción de entrega requiere aprobación del dueño y revisión de costos, márgenes y comisiones, especialmente en productos de ₡7.000–₡9.900.
