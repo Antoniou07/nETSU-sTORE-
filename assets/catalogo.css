@@ -92,3 +92,11 @@
 }
 @media(max-width:390px){.storefront-products{grid-template-columns:1fr}.store-header-nav{gap:22px}}
 @media(prefers-reduced-motion:reduce){.storefront-product,.storefront-picture img{transition:none}}
+
+/* Entrega: se calcula con cotización, sin tarifas inventadas */
+.delivery-options{background:#f1f6fa;border:1px solid #dce5ee;border-radius:13px;padding:15px;margin:15px 0}
+.delivery-options label{font-size:14px;margin:0 0 7px}
+.delivery-options select,.delivery-options input{background:#fff;min-height:46px;font-size:16px}
+.delivery-options #entrega-zona-wrap{margin-top:14px}
+.delivery-options p{margin:12px 0 0}
+.delivery-options [hidden]{display:none!important}
