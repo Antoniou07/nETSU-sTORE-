@@ -136,3 +136,16 @@ Si Meta solo admite tres preguntas, agrupar por PERSONALIZADOS, TECNOLOGÍA/AUTO
 [ ] No duplicar campaña anterior ni afirmar que los mensajes ya están activos.
 
 ACTUALIZACIÓN 2026-11-06: Portadas de cinco productos y vistas previas OG de las fichas configuradas con imágenes PNG/WebP reales. T04 galería con cinco PNG; Cloudflare público por verificar.
+
+
+FACTURACIÓN — DATO REPORTADO POR USUARIO EL 2026-11-06
+- Netsu Store: quiere activar anuncios con presupuesto USD 2/día.
+- DevOp Bienes Raíces: publicidad SEPARADA con presupuesto USD 2/día, sin mezclar campañas, leads ni activos con Netsu. Su plan se mantiene por separado.
+- Proyección nominal de ambos presupuestos: USD 4/día, USD 120 cada 30 días, antes de posibles impuestos/cargos; NO es tope absoluto de facturación.
+- El usuario reportó deuda anterior de USD 18 en Meta y afirmó disponer de ese dinero para pagarla. NO está verificado a qué cuenta publicitaria corresponde, si es una única cuenta o dos, ni si ya se pagó. Nunca marcarla como pagada sin confirmación.
+- Objetivo de tesorería: espaciar los cobros al máximo permitido por Meta y, si es viable, pagar en fecha mensual.
+- En facturación automática por tarjeta, Meta cobra cuando se alcanza el umbral de pago O en fecha mensual para saldo residual. El umbral NO es un límite de gasto y subir el máximo permitido NO obliga a Meta a aplazar cobros: aumentos pueden depender de pagos correctos y autorización de Meta.
+- Pasos operativos: Ads Manager > Facturación y pagos > elegir cuenta correcta > pagar deuda si figura como vencida/pendiente > Configuración de pagos > Cuándo pagarás / Umbral de pago > consultar máximo editable, solicitar/configurar el mayor permitido por cuenta; verificar fecha de facturación, método de pago y límites de gasto.
+- Si las campañas van en cuentas publicitarias separadas, cada cuenta tiene sus propios umbrales y fecha; gastos nominales estimados USD 60/30 días por cuenta con USD 2/día.
+- No se ha ejecutado ningún pago ni cambio de umbral desde este chat. Requiere acción del usuario en Meta o conector autorizado.
+- Antes de lanzar: revisar los $18 pendientes y método válido, el estado de las dos cuentas, precios/stock de productos anunciados y previsualización de cada anuncio. 
