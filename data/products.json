@@ -131,13 +131,13 @@
       "priceStatus": "aprobado",
       "availability": "consultar",
       "images": [
-        "assets/t04-tabla-flexiones/01_portada.jpg",
-        "assets/t04-tabla-flexiones/02_rutinas_musculares.jpg",
-        "assets/t04-tabla-flexiones/03_guia_de_colores.jpg",
-        "assets/t04-tabla-flexiones/04_plegable_portatil.jpg",
-        "assets/t04-tabla-flexiones/05_que_incluye.jpg"
+        "assets/t04-tabla-flexiones/01_portada.png",
+        "assets/t04-tabla-flexiones/02_rutinas_musculares.png",
+        "assets/t04-tabla-flexiones/03_guia_de_colores.png",
+        "assets/t04-tabla-flexiones/04_plegable_portatil.png",
+        "assets/t04-tabla-flexiones/05_que_incluye.png"
       ],
-      "imagesStatus": "pendientes_de_subir_a_GitHub",
+      "imagesStatus": "subidas_y_organizadas_en_GitHub_2026-11-06",
       "page": "tabla-flexiones.html",
       "facebook": "https://www.facebook.com/share/p/1Ewi6B46sL/",
       "instagram": "https://www.instagram.com/p/DfYoJT8lcRy/",
