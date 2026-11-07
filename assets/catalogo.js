@@ -45,7 +45,10 @@ function update(){
 chips.forEach(chip=>chip.addEventListener('click',()=>{category=chip.dataset.filtroCategoria;update()}));
 input.addEventListener('input',update);
 sort.addEventListener('change',()=>{order=sort.value;update()});
-reset.addEventListener('click',()=>{category='todos';order='destacados';input.value='';sort.value=order;update();input.focus()});
+function clearFilters(){category='todos';order='destacados';input.value='';sort.value=order;update();input.focus()}
+reset.addEventListener('click',clearFilters);
+const emptyReset=document.getElementById('catalogo-vacio-limpiar');
+if(emptyReset)emptyReset.addEventListener('click',clearFilters);
 function revealHash(){
  let id;try{id=decodeURIComponent(location.hash.slice(1))}catch(e){return}
  if(!id||!details.contains(document.getElementById(id)))return;
