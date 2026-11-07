@@ -10,6 +10,6 @@ Cada producto tiene su propia carpeta. Las imágenes de la tienda están organiz
 
 La página principal y las fichas de P01, T01, T02 y T03 se refieren a las carpetas anteriores.
 
-- T04 tabla de flexiones: `assets/t04-tabla-flexiones/` — carpeta creada con README; **aún faltan cargar las cinco imágenes JPG**. Consultá el README de esa carpeta para sus nombres exactos; no crear otra carpeta ni confundirlo con un masajeador. Una vez subidas, validar portada, galería y publicación.
+- T04 tabla de flexiones: `assets/t04-tabla-flexiones/` — cinco fotografías PNG ya subidas y numeradas de `01_portada.png` a `05_que_incluye.png`. Portada y galería conectadas; confirmar despliegue Cloudflare.
 
-Todas las publicaciones de Facebook/Instagram existentes permanecen enlazadas desde las fichas. El enlace de la publicación de Instagram T03 sigue pendiente. La verificación de despliegue externo Cloudflare se realiza aparte.
+Todas las publicaciones de Facebook/Instagram existentes permanecen enlazadas desde las fichas. El enlace de Instagram T03 ya está registrado: https://www.instagram.com/p/Dfapu1IDpmH/. La verificación de despliegue externo Cloudflare se realiza aparte.
